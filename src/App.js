@@ -12,6 +12,7 @@ import './App.css';
 import * as configActions from './actions/configActions';
 import * as pilesActions from './actions/pilesActions';
 import { piles } from './piles';
+import { TRASH_COMPOSITION_TYPE_LIST } from './constants/constants';
 
 class App extends Component {
   constructor(props){
@@ -25,49 +26,114 @@ class App extends Component {
       apiUrl: '',
       facebookAppId: ''
     };
+
+    const trashpoints = this.prepareData();
+    this.props.pilesActions.addPiles(trashpoints);
   }
   componentWillReceiveProps(nextProps) {
-    if(nextProps.facebookData && nextProps.facebookData.accessToken && !nextProps.isSignIn) {
+    if(nextProps.facebookData &&
+      nextProps.facebookData.accessToken &&
+      !nextProps.isSignIn
+    ) {
       this.props.configActions.apiLogin();
-      this.prepareData();
     }
   }
   prepareData() {
+    const pilesToReturn = {
+      loaded: true,
+      geoLoaded: false,
+    };
+    let geocodeIndex = [];
     const trashpoints = _.map(
       piles,
       (data) => {
         let pilesData = [];
-        let toReturn = {};
+        let toReturn = {
+          country: data.country
+        };
         for (const pc of data.piles) {
           let location = {
             latitude: pc.location.lat,
             longitude: pc.location.lng
           };
-          this.getAddressData(location);
-          pilesData.push({
+          const composition = _.map(pc.content, (d) => {
+            d.toLowerCase();
+          });
+          let name = '';
+          let address = '';
+          if(!_.isEmpty(pc.description)) {
+            const nameLength = pc.description.length < 20 ? pc.description.length : 20;
+            name = pc.description.substr(0, nameLength);
+            name = nameLength < 20 ? name : name + '...';
+            address = pc.description;
+          }
+          const cl = pilesData.push({
             location: location,
             status: 'threat',
             photos: [],
-            composition: _.map(pc.content, (d) => {
-              return d.toLowerCase();
+            composition: _.filter(composition, (o) => {
+              return TRASH_COMPOSITION_TYPE_LIST.indexOf(o) !== -1
             }),
             hashtags: [],
             amount: 'handful',
-            address: null,
-            name: null,
+            address: address,
+            name: name,
           });
+          const index = cl - 1;
+          if(index === 0) {
+            geocodeIndex.push({
+              country: data.country,
+              location: location,
+              index: index
+            });
+          }
         }
-        toReturn[data.country] = pilesData;
+        toReturn['piles'] = pilesData;
         return toReturn;
       }
     );
-    this.props.pilesActions.addPiles(trashpoints);
+    this.getAddressData(geocodeIndex);
+    for(const c of trashpoints) {
+      pilesToReturn[c.country] = c.piles;
+    }
+    return pilesToReturn;
   }
-  getAddressData(location) {
-    geocoder.reverseGeocode(location.latitude, location.longitude, function ( err, data ) {
-      console.log('geocoder: ', err, data);
-
-    });
+  getAddressData(geocodeIndex) {
+    const lastIndex = geocodeIndex.length - 1;
+    let currentIndex = geocodeIndex.length > 1 ? 0 : false;
+    let interval = setInterval(function(that) {
+      if (currentIndex === false || currentIndex > lastIndex) {
+        that.props.pilesActions.geodataUpdated();
+        return clearInterval(interval);
+      }
+      const indexForInterval = currentIndex;
+      geocoder.reverseGeocode(
+        geocodeIndex[indexForInterval].location.latitude,
+        geocodeIndex[indexForInterval].location.longitude,
+        function ( err, data ) {
+          console.log('geocoder: ', err, data, currentIndex, indexForInterval);
+          if(_.isEmpty(err) || (!_.isEmpty(data) &&  data.status === 'OK')) {
+            const address = data.results[0].formatted_address ?
+              data.results[0].formatted_address :
+              false;
+            const name = data.results[1].formatted_address ?
+              data.results[1].formatted_address :
+              address;
+            if(name !== false && address !== false) {
+              that.props.pilesActions.addGeodataToPile({
+                index: indexForInterval,
+                country: geocodeIndex[indexForInterval].country,
+                name: name,
+                address: address,
+              });
+            }
+          } else {
+            console.log(err);
+          }
+        }
+      );
+      currentIndex++;
+    }, 150, this);
   }
   handleChangeApiUrl(e) {
     this.setState({apiUrl: e.target.value});
@@ -195,7 +261,11 @@ function mapStateToProps(state) {
     facebookData: state.config.facebookData,
     apiToken: state.config.apiToken,
     isSignIn: state.config.isSignIn,
-    piles: state.piles
+    piles: _.pickBy(state.piles, function(value, key) {
+      return Array.isArray(value);
+    }),
+    pilesLoaded: state.piles.loaded,
+    pilesGeoLoaded: state.piles.geoLoaded
   };
 }
 

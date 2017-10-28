@@ -79,8 +79,8 @@ const mapPiles = (data) => {
 
 export const piles = {
   AF: {country: 'AF', piles: AF, photos: AF_images},
-  /*    AR: {country: 'AR', piles: AR, photos: AR_images},
-      BD: {country: 'BD', piles: BD, photos: BD_images},
+  AR: {country: 'AR', piles: AR, photos: AR_images},
+  /*    BD: {country: 'BD', piles: BD, photos: BD_images},
       BJ: {country: 'BJ', piles: BJ, photos: BJ_images},
       EE: {country: 'EE', piles: EE, photos: EE_images},
       GH: {country: 'GH', piles: GH, photos: GH_images},

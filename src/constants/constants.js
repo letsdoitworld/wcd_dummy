@@ -4,6 +4,8 @@ export const CONFIG_FACEBOOK_DATA_SET = 'CONFIG_FACEBOOK_DATA_SET';
 export const CONFIG_API_TOKEN_SET = 'CONFIG_API_TOKEN_SET';
 export const CONFIG_IS_SIGN_IN_SET = 'CONFIG_IS_SIGN_IN_SET';
 export const PILES_ADD_COUNTRIES = 'PILES_ADD_COUNTRIES';
+export const PILES_UPDATE_GEODATA = 'PILES_UPDATE_GEODATA';
+export const PILES_GEODATA_UPDATED = 'PILES_GEODATA_UPDATED';
 
 export const API_ENDPOINTS = {
   FETCH_DATASETS: '/datasets',
@@ -31,3 +33,15 @@ export const ERRORS = {
 };
 
 export const GENERIC_SERVER_ERROR = 'There was an error on the server';
+
+export const TRASH_COMPOSITION_TYPE_LIST = [
+  'plastic',
+  'metal',
+  'glass',
+  'electronics',
+  'paper',
+  'tyres',
+  'domestic waste',
+  'furniture',
+  'organic waste',
+];
