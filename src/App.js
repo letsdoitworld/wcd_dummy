@@ -3,11 +3,15 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import { Navbar, NavbarBrand, Container, Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
 import { FacebookLogin } from 'react-facebook-login-component';
+import geocoder from 'geocoder';
+import _ from  'lodash';
+
 import { Api } from './services';
 import { fetchNetworkTokenAsync } from './services/Login';
-
 import './App.css';
 import * as configActions from './actions/configActions';
+import * as pilesActions from './actions/pilesActions';
+import { piles } from './piles';
 
 class App extends Component {
   constructor(props){
@@ -25,7 +29,45 @@ class App extends Component {
   componentWillReceiveProps(nextProps) {
     if(nextProps.facebookData && nextProps.facebookData.accessToken && !nextProps.isSignIn) {
       this.props.configActions.apiLogin();
+      this.prepareData();
     }
+  }
+  prepareData() {
+    const trashpoints = _.map(
+      piles,
+      (data) => {
+        let pilesData = [];
+        let toReturn = {};
+        for (const pc of data.piles) {
+          let location = {
+            latitude: pc.location.lat,
+            longitude: pc.location.lng
+          };
+          this.getAddressData(location);
+          pilesData.push({
+            location: location,
+            status: 'threat',
+            photos: [],
+            composition: _.map(pc.content, (d) => {
+              return d.toLowerCase();
+            }),
+            hashtags: [],
+            amount: 'handful',
+            address: null,
+            name: null,
+          });
+        }
+        toReturn[data.country] = pilesData;
+        return toReturn;
+      }
+    );
+    this.props.pilesActions.addPiles(trashpoints);
+  }
+  getAddressData(location) {
+    geocoder.reverseGeocode(location.latitude, location.longitude, function ( err, data ) {
+      console.log('geocoder: ', err, data);
+
+    });
   }
   handleChangeApiUrl(e) {
     this.setState({apiUrl: e.target.value});
@@ -101,7 +143,7 @@ class App extends Component {
             if(!this.props.isSignIn) {
               return (
                 <div className="alert alert-danger fade show">
-                  <strong>Please wait! Try to login</strong>
+                  <strong>Data preparing for import!</strong><br />
                 </div>
               );
             } else {
@@ -152,13 +194,15 @@ function mapStateToProps(state) {
     facebookAppId: state.config.facebookAppId,
     facebookData: state.config.facebookData,
     apiToken: state.config.apiToken,
-    isSignIn: state.config.isSignIn
+    isSignIn: state.config.isSignIn,
+    piles: state.piles
   };
 }
 
 function mapDispatchToProps(dispatch) {
   return {
-    configActions: bindActionCreators(configActions, dispatch)
+    configActions: bindActionCreators(configActions, dispatch),
+    pilesActions: bindActionCreators(pilesActions, dispatch)
   }
 }
 
