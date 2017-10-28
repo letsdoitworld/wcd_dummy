@@ -1,0 +1,2805 @@
+[
+  {
+    "_id": "59285a5d02c6d20100e7bf49",
+    "last_update": "2017-05-26T16:40:28.554Z",
+    "nr_ord": 1,
+    "user": "592808cd32d6f81400bbd86b",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-26T10:46:19.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57826720924045,
+      "lng": 120.9979248046875
+    },
+    "created_at": "2017-05-26T16:39:57.613Z",
+    "areas": [],
+    "content": [
+      "Textiles"
+    ],
+    "images": [
+      "59285a5d02c6d20100e7bf4a"
+    ],
+    "status": "pending",
+    "__v": 0,
+    "is_hidden": true
+  },
+  {
+    "_id": "592c2e8c02c6d20100e7bf4d",
+    "last_update": "2017-06-09T16:10:23.969Z",
+    "nr_ord": 2,
+    "user": "592c2cbc02c6d20100e7bf4c",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 1,
+    "description": "Restaurant test",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-26T10:46:19.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.30707,
+      "lng": 124.0101372
+    },
+    "created_at": "2017-05-29T14:22:04.742Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper"
+    ],
+    "images": [
+      "592c2e8c02c6d20100e7bf4e"
+    ],
+    "status": "pending",
+    "__v": 0,
+    "is_hidden": true
+  },
+  {
+    "_id": "5947729749a8f80100d9fccd",
+    "last_update": "2017-06-19T06:43:35.459Z",
+    "nr_ord": 3,
+    "user": "59476c0649a8f80100d9fccc",
+    "county": "592808cd32d6f81400bbd8ac",
+    "city": null,
+    "size": 2,
+    "description": "Gggg",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.021146419001282,
+      "lng": 121.50594357401133
+    },
+    "created_at": "2017-06-19T06:43:35.427Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5947729749a8f80100d9fcce"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949d8f649a8f80100d9fce3",
+    "last_update": "2017-06-21T02:24:54.966Z",
+    "nr_ord": 4,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Inside a hole",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.5638451,
+      "lng": 121.0315727
+    },
+    "created_at": "2017-06-21T02:24:54.927Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949d8f649a8f80100d9fce4"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949d98249a8f80100d9fce6",
+    "last_update": "2017-06-21T02:27:14.646Z",
+    "nr_ord": 5,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In a plant pot",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.5638451,
+      "lng": 121.0315727
+    },
+    "created_at": "2017-06-21T02:27:14.633Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper"
+    ],
+    "images": [
+      "5949d98249a8f80100d9fce7"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949d9e049a8f80100d9fce9",
+    "last_update": "2017-06-21T02:28:48.061Z",
+    "nr_ord": 6,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "This is right below the staircase down the pavement of Kalayaan Ave.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56288883049432,
+      "lng": 121.03064507246017
+    },
+    "created_at": "2017-06-21T02:28:48.050Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5949d9e049a8f80100d9fcea"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dac649a8f80100d9fcec",
+    "last_update": "2017-06-21T02:32:38.653Z",
+    "nr_ord": 7,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "Just handful trash",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.551144052647764,
+      "lng": 121.01981163024901
+    },
+    "created_at": "2017-06-21T02:32:38.636Z",
+    "areas": [],
+    "content": [
+      "Paper",
+      "Plastic"
+    ],
+    "images": [
+      "5949dac649a8f80100d9fced"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949db2a49a8f80100d9fcef",
+    "last_update": "2017-06-21T02:34:18.602Z",
+    "nr_ord": 8,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "Found in river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56551617379127,
+      "lng": 121.033624029659
+    },
+    "created_at": "2017-06-21T02:34:18.593Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "BuildingMaterials",
+      "ElectronicWaste",
+      "HouseholdGarbage",
+      "Batteries",
+      "Textiles"
+    ],
+    "images": [
+      "5949db2a49a8f80100d9fcf0"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dbb649a8f80100d9fcf2",
+    "last_update": "2017-06-21T02:36:38.191Z",
+    "nr_ord": 9,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.564541999947437,
+      "lng": 121.03238943234642
+    },
+    "created_at": "2017-06-21T02:36:38.184Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949dbb649a8f80100d9fcf3"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dbb849a8f80100d9fcf5",
+    "last_update": "2017-06-21T02:36:40.396Z",
+    "nr_ord": 10,
+    "user": "5947854049a8f80100d9fcd0",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.566778529679302,
+      "lng": 121.03674615369528
+    },
+    "created_at": "2017-06-21T02:36:40.386Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "ElectronicWaste",
+      "Batteries",
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "5949dbb849a8f80100d9fcf6"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dc1149a8f80100d9fcf8",
+    "last_update": "2017-06-21T02:38:09.556Z",
+    "nr_ord": 11,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "Under a tree, along the Kalayaan Ave",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.550022502704843,
+      "lng": 121.03071212768555
+    },
+    "created_at": "2017-06-21T02:38:09.547Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper"
+    ],
+    "images": [
+      "5949dc1149a8f80100d9fcf9"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dc1149a8f80100d9fcfb",
+    "last_update": "2017-06-21T02:38:09.808Z",
+    "nr_ord": 12,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.564541999947437,
+      "lng": 121.03238943234642
+    },
+    "created_at": "2017-06-21T02:38:09.793Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "5949dc1149a8f80100d9fcfc"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dccf49a8f80100d9fcfe",
+    "last_update": "2017-06-21T02:41:19.874Z",
+    "nr_ord": 13,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.54962771459261,
+      "lng": 121.02501586710105
+    },
+    "created_at": "2017-06-21T02:41:19.865Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper",
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "5949dccf49a8f80100d9fcff"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dcfb49a8f80100d9fd01",
+    "last_update": "2017-06-21T02:42:03.528Z",
+    "nr_ord": 14,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.54962771459261,
+      "lng": 121.02501586710105
+    },
+    "created_at": "2017-06-21T02:42:03.524Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949dcfb49a8f80100d9fd02"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dd4b49a8f80100d9fd04",
+    "last_update": "2017-06-21T02:43:23.203Z",
+    "nr_ord": 15,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Broken flower pots",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.54962771459261,
+      "lng": 121.02501586710105
+    },
+    "created_at": "2017-06-21T02:43:23.193Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949dd4b49a8f80100d9fd05"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949de4249a8f80100d9fd07",
+    "last_update": "2017-06-21T02:47:30.609Z",
+    "nr_ord": 16,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "In a ditch",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:47:30.596Z",
+    "areas": [],
+    "content": [
+      "Paper",
+      "Plastic",
+      "BuildingMaterials",
+      "Textiles"
+    ],
+    "images": [
+      "5949de4249a8f80100d9fd08"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949de8649a8f80100d9fd0a",
+    "last_update": "2017-06-21T02:48:38.676Z",
+    "nr_ord": 17,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:48:38.667Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass"
+    ],
+    "images": [
+      "5949de8649a8f80100d9fd0b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ded449a8f80100d9fd0d",
+    "last_update": "2017-06-21T02:49:56.627Z",
+    "nr_ord": 18,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:49:56.617Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "BuildingMaterials",
+      "Textiles"
+    ],
+    "images": [
+      "5949ded449a8f80100d9fd0e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ded549a8f80100d9fd10",
+    "last_update": "2017-06-21T02:49:57.700Z",
+    "nr_ord": 19,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "Bridge under construction",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56697158982471,
+      "lng": 121.0374465679014
+    },
+    "created_at": "2017-06-21T02:49:57.690Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949ded549a8f80100d9fd11"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949df0349a8f80100d9fd13",
+    "last_update": "2017-06-21T02:50:43.237Z",
+    "nr_ord": 20,
+    "user": "5947854049a8f80100d9fcd0",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.5666997,
+      "lng": 121.0369265
+    },
+    "created_at": "2017-06-21T02:50:43.227Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "ElectronicWaste",
+      "Batteries",
+      "Other",
+      "Textiles"
+    ],
+    "images": [
+      "5949df0349a8f80100d9fd14"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949df8649a8f80100d9fd16",
+    "last_update": "2017-06-21T02:52:54.850Z",
+    "nr_ord": 21,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:52:54.841Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949df8649a8f80100d9fd17"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dfbd49a8f80100d9fd19",
+    "last_update": "2017-06-21T02:53:49.183Z",
+    "nr_ord": 22,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568776560716223,
+      "lng": 121.03680610656738
+    },
+    "created_at": "2017-06-21T02:53:49.174Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5949dfbd49a8f80100d9fd1a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dfe149a8f80100d9fd1c",
+    "last_update": "2017-06-21T02:54:25.295Z",
+    "nr_ord": 23,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:54:25.286Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "Textiles"
+    ],
+    "images": [
+      "5949dfe149a8f80100d9fd1d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949dff349a8f80100d9fd1f",
+    "last_update": "2017-06-21T02:54:43.971Z",
+    "nr_ord": 24,
+    "user": "5947854049a8f80100d9fcd0",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568466,
+      "lng": 121.037166
+    },
+    "created_at": "2017-06-21T02:54:43.963Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper",
+      "Glass",
+      "BuildingMaterials",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5949dff349a8f80100d9fd20"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e01549a8f80100d9fd22",
+    "last_update": "2017-06-21T02:55:17.168Z",
+    "nr_ord": 25,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "Between broken walls",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.554799435127912,
+      "lng": 121.02959632873535
+    },
+    "created_at": "2017-06-21T02:55:17.158Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "Textiles"
+    ],
+    "images": [
+      "5949e01549a8f80100d9fd23"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e06449a8f80100d9fd25",
+    "last_update": "2017-06-21T02:56:36.470Z",
+    "nr_ord": 26,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T02:56:36.462Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Aluminium"
+    ],
+    "images": [
+      "5949e06449a8f80100d9fd26"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e09a49a8f80100d9fd28",
+    "last_update": "2017-06-21T02:57:30.505Z",
+    "nr_ord": 27,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T02:57:30.495Z",
+    "areas": [],
+    "content": [
+      "BuildingMaterials",
+      "Paper",
+      "Plastic"
+    ],
+    "images": [
+      "5949e09a49a8f80100d9fd29"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e1d549a8f80100d9fd2b",
+    "last_update": "2017-06-21T03:02:45.982Z",
+    "nr_ord": 28,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T03:02:45.969Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass"
+    ],
+    "images": [
+      "5949e1d549a8f80100d9fd2c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e20b49a8f80100d9fd2e",
+    "last_update": "2017-06-21T03:03:39.778Z",
+    "nr_ord": 29,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "By the pavement next to a construction site.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567052832341918,
+      "lng": 121.03914499282837
+    },
+    "created_at": "2017-06-21T03:03:39.769Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper"
+    ],
+    "images": [
+      "5949e20b49a8f80100d9fd2f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e21549a8f80100d9fd31",
+    "last_update": "2017-06-21T03:03:49.830Z",
+    "nr_ord": 30,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T03:03:49.825Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Aluminium"
+    ],
+    "images": [
+      "5949e21549a8f80100d9fd32"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e2e749a8f80100d9fd34",
+    "last_update": "2017-06-21T03:07:19.874Z",
+    "nr_ord": 31,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "All the garbage is leaned against the wall",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567385118378299,
+      "lng": 121.04268550872803
+    },
+    "created_at": "2017-06-21T03:07:19.865Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5949e2e749a8f80100d9fd35"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e32f49a8f80100d9fd37",
+    "last_update": "2017-06-21T03:08:31.574Z",
+    "nr_ord": 32,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T03:08:31.568Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper"
+    ],
+    "images": [
+      "5949e32f49a8f80100d9fd38"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e34649a8f80100d9fd3a",
+    "last_update": "2017-06-21T03:08:54.087Z",
+    "nr_ord": 33,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56915318967269,
+      "lng": 121.0428338685269
+    },
+    "created_at": "2017-06-21T03:08:54.078Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "5949e34649a8f80100d9fd3b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e37d49a8f80100d9fd3d",
+    "last_update": "2017-06-21T03:09:49.802Z",
+    "nr_ord": 34,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T03:09:49.793Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass",
+      "Aluminium"
+    ],
+    "images": [
+      "5949e37d49a8f80100d9fd3e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e3be49a8f80100d9fd40",
+    "last_update": "2017-06-21T03:10:54.228Z",
+    "nr_ord": 35,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "It is below the bridge on Dr. Jose. T. Rizal ave",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567385118378299,
+      "lng": 121.04268550872803
+    },
+    "created_at": "2017-06-21T03:10:54.218Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5949e3be49a8f80100d9fd41"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e44649a8f80100d9fd43",
+    "last_update": "2017-06-21T03:13:10.101Z",
+    "nr_ord": 36,
+    "user": "5949354249a8f80100d9fcda",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "Around tree",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.555781143084575,
+      "lng": 121.02764213581395
+    },
+    "created_at": "2017-06-21T03:13:10.093Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass"
+    ],
+    "images": [
+      "5949e44649a8f80100d9fd44"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e6ac49a8f80100d9fd46",
+    "last_update": "2017-06-21T03:23:24.459Z",
+    "nr_ord": 37,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "The garbage is locked inside a yard but does not appear to be private property.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567385118378299,
+      "lng": 121.04268550872803
+    },
+    "created_at": "2017-06-21T03:23:24.435Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "BuildingMaterials",
+      "Textiles",
+      "Paper"
+    ],
+    "images": [
+      "5949e6ac49a8f80100d9fd47",
+      "5949e6ac49a8f80100d9fd48"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e6c949a8f80100d9fd4a",
+    "last_update": "2017-06-21T08:03:57.369Z",
+    "nr_ord": 38,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "5949d73949a8f80100d9fce2"
+    ],
+    "location": {
+      "lat": 14.5699709281461,
+      "lng": 121.035349499547
+    },
+    "created_at": "2017-06-21T03:23:53.671Z",
+    "areas": [],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949e6c949a8f80100d9fd4b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e83c49a8f80100d9fd4d",
+    "last_update": "2017-06-21T03:30:04.967Z",
+    "nr_ord": 39,
+    "user": "5947854049a8f80100d9fcd0",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56995529232423,
+      "lng": 121.03528977902896
+    },
+    "created_at": "2017-06-21T03:30:04.956Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5949e83c49a8f80100d9fd4e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e90749a8f80100d9fd50",
+    "last_update": "2017-06-21T03:33:27.360Z",
+    "nr_ord": 40,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "On the pasig river, surrounded by numerous dead fish.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567483765698942,
+      "lng": 121.04284912347794
+    },
+    "created_at": "2017-06-21T03:33:27.340Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949e90749a8f80100d9fd51",
+      "5949e90749a8f80100d9fd52"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e90a49a8f80100d9fd54",
+    "last_update": "2017-06-21T03:33:30.151Z",
+    "nr_ord": 41,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "On the pasig river, surrounded by numerous dead fish.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567483765698942,
+      "lng": 121.04284912347794
+    },
+    "created_at": "2017-06-21T03:33:30.138Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949e90a49a8f80100d9fd55",
+      "5949e90a49a8f80100d9fd56"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e93c49a8f80100d9fd58",
+    "last_update": "2017-06-21T03:34:20.954Z",
+    "nr_ord": 42,
+    "user": "5947854049a8f80100d9fcd0",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56923880701939,
+      "lng": 121.03634073151623
+    },
+    "created_at": "2017-06-21T03:34:20.943Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949e93c49a8f80100d9fd59"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949e99449a8f80100d9fd5b",
+    "last_update": "2017-06-21T03:35:48.174Z",
+    "nr_ord": 43,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568485812296794,
+      "lng": 121.03895187377928
+    },
+    "created_at": "2017-06-21T03:35:48.164Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5949e99449a8f80100d9fd5c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ea0549a8f80100d9fd5e",
+    "last_update": "2017-06-21T03:37:41.351Z",
+    "nr_ord": 44,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "Plastics waste on the river, under the bridge",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568132760129112,
+      "lng": 121.04583978652953
+    },
+    "created_at": "2017-06-21T03:37:41.340Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5949ea0549a8f80100d9fd5f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ea8e49a8f80100d9fd61",
+    "last_update": "2017-06-21T03:39:58.578Z",
+    "nr_ord": 45,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "On the riverside",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56834043794328,
+      "lng": 121.0463547706604
+    },
+    "created_at": "2017-06-21T03:39:58.568Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949ea8e49a8f80100d9fd62"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949eaaf49a8f80100d9fd64",
+    "last_update": "2017-06-21T03:40:31.439Z",
+    "nr_ord": 46,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Textiles on pasig river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.567483765698942,
+      "lng": 121.04284912347794
+    },
+    "created_at": "2017-06-21T03:40:31.430Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Textiles"
+    ],
+    "images": [
+      "5949eaaf49a8f80100d9fd65"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949eb3b49a8f80100d9fd67",
+    "last_update": "2017-06-21T03:42:51.949Z",
+    "nr_ord": 47,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "On the stairs near the riverside",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56819525123841,
+      "lng": 121.0459695264686
+    },
+    "created_at": "2017-06-21T03:42:51.943Z",
+    "areas": [
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949eb3b49a8f80100d9fd68"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ec1a49a8f80100d9fd6a",
+    "last_update": "2017-06-21T03:46:34.775Z",
+    "nr_ord": 48,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "A deserted house full of garbage",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57051503562997,
+      "lng": 121.0479701590587
+    },
+    "created_at": "2017-06-21T03:46:34.766Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Paper",
+      "Textiles"
+    ],
+    "images": [
+      "5949ec1a49a8f80100d9fd6b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ec3749a8f80100d9fd6d",
+    "last_update": "2017-06-21T03:47:03.676Z",
+    "nr_ord": 49,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.566741313727992,
+      "lng": 121.04246020317076
+    },
+    "created_at": "2017-06-21T03:47:03.670Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper",
+      "Glass",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "5949ec3749a8f80100d9fd6e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ecf549a8f80100d9fd70",
+    "last_update": "2017-06-21T03:50:13.457Z",
+    "nr_ord": 50,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "In a neighbourhood by the pasig river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56672054580474,
+      "lng": 121.04244947433472
+    },
+    "created_at": "2017-06-21T03:50:13.447Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "BuildingMaterials",
+      "Textiles"
+    ],
+    "images": [
+      "5949ecf549a8f80100d9fd71"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949ee8849a8f80100d9fd73",
+    "last_update": "2017-06-21T03:56:56.872Z",
+    "nr_ord": 51,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "On the middln of th bridge",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57036976221327,
+      "lng": 121.0480579838846
+    },
+    "created_at": "2017-06-21T03:56:56.862Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5949ee8849a8f80100d9fd74"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949f07d49a8f80100d9fd76",
+    "last_update": "2017-06-21T04:05:17.228Z",
+    "nr_ord": 52,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In an alley Opposite to a demolition side",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56946939696983,
+      "lng": 121.0431158357496
+    },
+    "created_at": "2017-06-21T04:05:17.219Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "BuildingMaterials",
+      "Textiles"
+    ],
+    "images": [
+      "5949f07d49a8f80100d9fd77"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949f13c49a8f80100d9fd79",
+    "last_update": "2017-06-21T04:08:28.897Z",
+    "nr_ord": 53,
+    "user": "5949d73949a8f80100d9fce2",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "A dump site in the neighbourhood of alchan",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.560323932372178,
+      "lng": 121.04032516479491
+    },
+    "created_at": "2017-06-21T04:08:28.862Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Plastic",
+      "Textiles"
+    ],
+    "images": [
+      "5949f13c49a8f80100d9fd7a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5949f4d449a8f80100d9fd7c",
+    "last_update": "2017-06-21T04:23:48.583Z",
+    "nr_ord": 54,
+    "user": "5949325a49a8f80100d9fcd5",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 4,
+    "description": "All the construction waste are thrown here",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568195063493906,
+      "lng": 121.03795945644379
+    },
+    "created_at": "2017-06-21T04:23:48.574Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Plastic"
+    ],
+    "images": [
+      "5949f4d449a8f80100d9fd7d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a2cf249a8f80100d9fd80",
+    "last_update": "2017-06-21T08:23:14.875Z",
+    "nr_ord": 55,
+    "user": "59476c0649a8f80100d9fccc",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "Illegal dumping",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.562695690761535,
+      "lng": 121.03108902102576
+    },
+    "created_at": "2017-06-21T08:23:14.864Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a2cf249a8f80100d9fd81"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a2d4e49a8f80100d9fd83",
+    "last_update": "2017-06-21T08:24:46.450Z",
+    "nr_ord": 56,
+    "user": "59476c0649a8f80100d9fccc",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "Illegal dumping",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.562695690761535,
+      "lng": 121.03108902102576
+    },
+    "created_at": "2017-06-21T08:24:46.437Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a2d4e49a8f80100d9fd84"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a332a49a8f80100d9fd86",
+    "last_update": "2017-06-21T08:49:47.007Z",
+    "nr_ord": 57,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Near a tree",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.562579902037244,
+      "lng": 121.03017032146452
+    },
+    "created_at": "2017-06-21T08:49:46.996Z",
+    "areas": [],
+    "content": [
+      "HouseholdGarbage",
+      "Plastic"
+    ],
+    "images": [
+      "594a332b49a8f80100d9fd87"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a34d849a8f80100d9fd89",
+    "last_update": "2017-06-21T08:56:56.140Z",
+    "nr_ord": 58,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Close to the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56888559127466,
+      "lng": 121.03169918060301
+    },
+    "created_at": "2017-06-21T08:56:56.133Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a34d849a8f80100d9fd8a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a36e749a8f80100d9fd8c",
+    "last_update": "2017-06-21T09:05:43.021Z",
+    "nr_ord": 59,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "inside the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.568872611449097,
+      "lng": 121.03276669979095
+    },
+    "created_at": "2017-06-21T09:05:43.016Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a36e749a8f80100d9fd8d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a37b049a8f80100d9fd8f",
+    "last_update": "2017-06-21T09:09:04.512Z",
+    "nr_ord": 60,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.569329500848692,
+      "lng": 121.03235363960265
+    },
+    "created_at": "2017-06-21T09:09:04.504Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a37b049a8f80100d9fd90"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a37e349a8f80100d9fd92",
+    "last_update": "2017-06-21T09:09:55.978Z",
+    "nr_ord": 61,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.56975004593637,
+      "lng": 121.03188157081604
+    },
+    "created_at": "2017-06-21T09:09:55.973Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a37e349a8f80100d9fd93"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a380549a8f80100d9fd95",
+    "last_update": "2017-06-21T09:10:29.995Z",
+    "nr_ord": 62,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.569910995078628,
+      "lng": 121.0317099094391
+    },
+    "created_at": "2017-06-21T09:10:29.986Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a380549a8f80100d9fd96"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a384349a8f80100d9fd98",
+    "last_update": "2017-06-21T09:11:31.729Z",
+    "nr_ord": 63,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "In the river",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.570087519809219,
+      "lng": 121.03149533271788
+    },
+    "created_at": "2017-06-21T09:11:31.719Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a384349a8f80100d9fd99"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a394649a8f80100d9fd9c",
+    "last_update": "2017-06-21T09:15:50.971Z",
+    "nr_ord": 64,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 3,
+    "description": "Near the residential area",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571201179923865,
+      "lng": 121.03081941604613
+    },
+    "created_at": "2017-06-21T09:15:50.966Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Glass"
+    ],
+    "images": [
+      "594a394649a8f80100d9fd9d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a39ac49a8f80100d9fd9f",
+    "last_update": "2017-06-21T09:17:32.783Z",
+    "nr_ord": 65,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571554227177195,
+      "lng": 121.0304546356201
+    },
+    "created_at": "2017-06-21T09:17:32.774Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a39ac49a8f80100d9fda0"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3a4549a8f80100d9fda2",
+    "last_update": "2017-06-21T09:20:05.932Z",
+    "nr_ord": 66,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Near a puddle, glass bottle caps",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571491924761823,
+      "lng": 121.03019714355469
+    },
+    "created_at": "2017-06-21T09:20:05.920Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a3a4549a8f80100d9fda3"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3a6e49a8f80100d9fda5",
+    "last_update": "2017-06-21T09:20:46.060Z",
+    "nr_ord": 67,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571491924761823,
+      "lng": 121.03019714355469
+    },
+    "created_at": "2017-06-21T09:20:46.050Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a3a6e49a8f80100d9fda6"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3a9d49a8f80100d9fda8",
+    "last_update": "2017-06-21T09:21:33.456Z",
+    "nr_ord": 68,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571647680767255,
+      "lng": 121.03011131286621
+    },
+    "created_at": "2017-06-21T09:21:33.447Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a3a9d49a8f80100d9fda9"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3b6b49a8f80100d9fdab",
+    "last_update": "2017-06-21T09:24:59.926Z",
+    "nr_ord": 69,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "description": "Inside a water pipe gate",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57213831146493,
+      "lng": 121.0296553373337
+    },
+    "created_at": "2017-06-21T09:24:59.916Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a3b6b49a8f80100d9fdac"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3b8f49a8f80100d9fdae",
+    "last_update": "2017-06-21T09:25:35.206Z",
+    "nr_ord": 70,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 1,
+    "description": "Near a pole",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.572340793656698,
+      "lng": 121.0294783115387
+    },
+    "created_at": "2017-06-21T09:25:35.196Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a3b8f49a8f80100d9fdaf"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3bc049a8f80100d9fdb1",
+    "last_update": "2017-06-21T09:26:24.015Z",
+    "nr_ord": 71,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57263153699136,
+      "lng": 121.02929055690764
+    },
+    "created_at": "2017-06-21T09:26:24.003Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a3bc049a8f80100d9fdb2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3be649a8f80100d9fdb4",
+    "last_update": "2017-06-21T09:27:02.653Z",
+    "nr_ord": 72,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.571935829087137,
+      "lng": 121.02989137172698
+    },
+    "created_at": "2017-06-21T09:27:02.643Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a3be649a8f80100d9fdb5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3c1249a8f80100d9fdb7",
+    "last_update": "2017-06-21T09:27:46.440Z",
+    "nr_ord": 73,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.572018898803087,
+      "lng": 121.03009521961211
+    },
+    "created_at": "2017-06-21T09:27:46.431Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a3c1249a8f80100d9fdb8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3c3249a8f80100d9fdba",
+    "last_update": "2017-06-21T09:28:18.929Z",
+    "nr_ord": 74,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.57182160817658,
+      "lng": 121.0300362110138
+    },
+    "created_at": "2017-06-21T09:28:18.921Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594a3c3249a8f80100d9fdbb"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a3c5349a8f80100d9fdbd",
+    "last_update": "2017-06-21T09:28:51.133Z",
+    "nr_ord": 75,
+    "user": "59471d6e49a8f80100d9fcc8",
+    "county": "592808cd32d6f81400bbd89d",
+    "city": "592808d032d6f81400bbd8c0",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-18T18:08:44.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.572953430950179,
+      "lng": 121.02873802185059
+    },
+    "created_at": "2017-06-21T09:28:51.124Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594a3c5349a8f80100d9fdbe"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955f542c11a49010003aa34",
+    "last_update": "2017-06-30T06:52:50.912Z",
+    "nr_ord": 76,
+    "user": "595397a9c11a49010003aa2e",
+    "county": "592808cd32d6f81400bbd88a",
+    "city": null,
+    "size": 1,
+    "description": "Mangrove litters",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.665944717215549,
+      "lng": 125.37741877502411
+    },
+    "created_at": "2017-06-30T06:52:50.877Z",
+    "areas": [
+      "water",
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "5955f542c11a49010003aa35",
+      "5955f542c11a49010003aa36",
+      "5955f542c11a49010003aa37"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955f5ecc11a49010003aa39",
+    "last_update": "2017-06-30T06:55:40.507Z",
+    "nr_ord": 77,
+    "user": "595397a9c11a49010003aa2e",
+    "county": "592808cd32d6f81400bbd88a",
+    "city": null,
+    "size": 1,
+    "description": "Mangrove litter",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.666850498588438,
+      "lng": 125.37978152482538
+    },
+    "created_at": "2017-06-30T06:55:40.487Z",
+    "areas": [
+      "water",
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "5955f5ecc11a49010003aa3a",
+      "5955f5ecc11a49010003aa3b",
+      "5955f5ecc11a49010003aa3c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955f691c11a49010003aa3e",
+    "last_update": "2017-06-30T06:58:25.979Z",
+    "nr_ord": 78,
+    "user": "595397a9c11a49010003aa2e",
+    "county": "592808cd32d6f81400bbd88a",
+    "city": null,
+    "size": 1,
+    "description": "Discarded fishing gear",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.666850498588438,
+      "lng": 125.37978152482538
+    },
+    "created_at": "2017-06-30T06:58:25.965Z",
+    "areas": [
+      "water",
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "5955f691c11a49010003aa3f",
+      "5955f691c11a49010003aa40",
+      "5955f691c11a49010003aa41"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955f788c11a49010003aa43",
+    "last_update": "2017-06-30T07:02:32.411Z",
+    "nr_ord": 79,
+    "user": "595397a9c11a49010003aa2e",
+    "county": "592808cd32d6f81400bbd88a",
+    "city": null,
+    "size": 1,
+    "description": "Mangrove litters",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.666850498588438,
+      "lng": 125.37978152482538
+    },
+    "created_at": "2017-06-30T07:02:32.397Z",
+    "areas": [
+      "water",
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5955f788c11a49010003aa44",
+      "5955f788c11a49010003aa45",
+      "5955f788c11a49010003aa46"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59572954c11a49010003aa4a",
+    "last_update": "2017-07-01T04:47:16.360Z",
+    "nr_ord": 80,
+    "user": "595726c8c11a49010003aa48",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 2,
+    "description": "Dumped in this area due to no discipline in waste management.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.328679660063171,
+      "lng": 123.92394558373782
+    },
+    "created_at": "2017-07-01T04:47:16.342Z",
+    "areas": [
+      "city",
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "59572954c11a49010003aa4b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59589c3cc11a49010003aa4d",
+    "last_update": "2017-07-02T07:09:48.027Z",
+    "nr_ord": 81,
+    "user": "595726c8c11a49010003aa48",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 2,
+    "description": "Piled up beside the sidewalk going to Ayala Center Cebu",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.3199014147234,
+      "lng": 123.90985965728758
+    },
+    "created_at": "2017-07-02T07:09:48.017Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "59589c3cc11a49010003aa4e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59589d17c11a49010003aa50",
+    "last_update": "2017-07-02T07:13:27.246Z",
+    "nr_ord": 82,
+    "user": "595726c8c11a49010003aa48",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 1,
+    "description": "Piled up beside commercial area.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.3197776,
+      "lng": 123.9093405
+    },
+    "created_at": "2017-07-02T07:13:27.234Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "59589d17c11a49010003aa51"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59589d68c11a49010003aa53",
+    "last_update": "2017-07-02T07:14:48.169Z",
+    "nr_ord": 83,
+    "user": "595726c8c11a49010003aa48",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 1,
+    "description": "Thrown on island sidewalk.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.31937766162775,
+      "lng": 123.90942900165099
+    },
+    "created_at": "2017-07-02T07:14:48.159Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Other"
+    ],
+    "images": [
+      "59589d68c11a49010003aa54"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59589ff9c11a49010003aa56",
+    "last_update": "2017-07-02T07:25:45.413Z",
+    "nr_ord": 84,
+    "user": "595726c8c11a49010003aa48",
+    "county": "592808cd32d6f81400bbd887",
+    "city": null,
+    "size": 1,
+    "description": "River garbage",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:46:23.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 10.327041459760729,
+      "lng": 123.92090633523821
+    },
+    "created_at": "2017-07-02T07:25:45.397Z",
+    "areas": [
+      "city",
+      "water"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Other"
+    ],
+    "images": [
+      "59589ff9c11a49010003aa57"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59659db7760ba30100f0d7ce",
+    "last_update": "2017-07-12T03:55:35.595Z",
+    "nr_ord": 85,
+    "user": "594f79f0620fb001001c2622",
+    "county": "592808cd32d6f81400bbd896",
+    "city": null,
+    "size": 1,
+    "description": "For National cleanup day 2017",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-06T12:40:46.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 14.2167564,
+      "lng": 121.1319249
+    },
+    "created_at": "2017-07-12T03:55:35.571Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "59659db7760ba30100f0d7cf",
+      "59659db7760ba30100f0d7d0"
+    ],
+    "status": "pending",
+    "__v": 0
+  }
+]

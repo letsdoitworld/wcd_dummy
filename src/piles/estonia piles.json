@@ -1,0 +1,979 @@
+[
+  {
+    "_id": "5928296a17e76f0100b3372a",
+    "last_update": "2017-06-06T17:07:50.992Z",
+    "nr_ord": 1,
+    "user": "592828e817e76f0100b33729",
+    "county": "5927f276f07cc813005d8a8b",
+    "city": null,
+    "size": 3,
+    "description": "Ffgyuv",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-26T09:14:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 58.21487711945768,
+      "lng": 24.48756279927693
+    },
+    "created_at": "2017-05-26T13:11:06.263Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Aluminium",
+      "Glass",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5928296a17e76f0100b3372b"
+    ],
+    "status": "pending",
+    "__v": 0,
+    "is_hidden": true
+  },
+  {
+    "_id": "592dac146982c50100e93471",
+    "last_update": "2017-06-09T10:54:35.498Z",
+    "nr_ord": 2,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "description": "Windows",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.44496088067639,
+      "lng": 24.738639380411765
+    },
+    "created_at": "2017-05-30T17:29:56.814Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "592dac146982c50100e93472"
+    ],
+    "status": "pending",
+    "__v": 0,
+    "is_hidden": true
+  },
+  {
+    "_id": "59316aad6982c50100e93474",
+    "last_update": "2017-06-06T17:07:51.013Z",
+    "nr_ord": 3,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47535123344534,
+      "lng": 24.715094504390436
+    },
+    "created_at": "2017-06-02T13:39:57.238Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Glass",
+      "Other"
+    ],
+    "images": [
+      "59316aad6982c50100e93475"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316b5b6982c50100e93477",
+    "last_update": "2017-06-06T17:07:51.014Z",
+    "nr_ord": 4,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "Paljassaare hoiualal",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47606469377149,
+      "lng": 24.714241379469964
+    },
+    "created_at": "2017-06-02T13:42:51.773Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "59316b5b6982c50100e93478"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316bf46982c50100e9347a",
+    "last_update": "2017-06-06T17:07:51.015Z",
+    "nr_ord": 5,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47596506125274,
+      "lng": 24.713920190506542
+    },
+    "created_at": "2017-06-02T13:45:24.091Z",
+    "areas": [
+      "field",
+      "forest"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Other"
+    ],
+    "images": [
+      "59316bf46982c50100e9347b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316c5f6982c50100e9347d",
+    "last_update": "2017-06-06T17:07:51.022Z",
+    "nr_ord": 6,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47613778320748,
+      "lng": 24.714181952513172
+    },
+    "created_at": "2017-06-02T13:47:11.423Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "59316c5f6982c50100e9347e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316cf46982c50100e93480",
+    "last_update": "2017-06-06T17:07:51.023Z",
+    "nr_ord": 7,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "paljassaare hoiuala",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.475971461012456,
+      "lng": 24.71406558227045
+    },
+    "created_at": "2017-06-02T13:49:40.797Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "59316cf46982c50100e93481"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316d656982c50100e93483",
+    "last_update": "2017-06-06T17:07:51.024Z",
+    "nr_ord": 8,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 4,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.475971461012456,
+      "lng": 24.71406558227045
+    },
+    "created_at": "2017-06-02T13:51:33.402Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "59316d656982c50100e93484"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316d976982c50100e93486",
+    "last_update": "2017-06-06T17:07:51.025Z",
+    "nr_ord": 9,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "description": "rehvid",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.475956538478904,
+      "lng": 24.71387481817601
+    },
+    "created_at": "2017-06-02T13:52:23.413Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "59316d976982c50100e93487"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59316d9b6982c50100e93489",
+    "last_update": "2017-06-12T07:15:59.198Z",
+    "nr_ord": 10,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a8b",
+    "city": null,
+    "size": 3,
+    "description": "Tires",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [
+      "5927f275f07cc813005d8a80"
+    ],
+    "confirm": [],
+    "location": {
+      "lat": 58.65979930575396,
+      "lng": 24.960937499999996
+    },
+    "created_at": "2017-06-02T13:52:27.694Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "59316d9b6982c50100e9348a"
+    ],
+    "status": "pending",
+    "__v": 0,
+    "is_hidden": true
+  },
+  {
+    "_id": "593171456982c50100e9348c",
+    "last_update": "2017-06-06T17:07:51.031Z",
+    "nr_ord": 11,
+    "user": "592823b917e76f0100b33726",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "description": "Metal",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47519258321733,
+      "lng": 24.719446721337587
+    },
+    "created_at": "2017-06-02T14:08:05.734Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "593171456982c50100e9348d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5931736c6982c50100e9348f",
+    "last_update": "2017-06-06T17:07:51.033Z",
+    "nr_ord": 12,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47617172028453,
+      "lng": 24.71548864947181
+    },
+    "created_at": "2017-06-02T14:17:16.344Z",
+    "areas": [
+      "forest",
+      "field"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "5931736c6982c50100e93490"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593174216982c50100e93492",
+    "last_update": "2017-06-06T17:07:51.033Z",
+    "nr_ord": 13,
+    "user": "592823b917e76f0100b33726",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 4,
+    "description": "House and neighborhood filled with garbage",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.4759045616225,
+      "lng": 24.71537025689031
+    },
+    "created_at": "2017-06-02T14:20:17.788Z",
+    "areas": [
+      "field",
+      "forest"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Other",
+      "HouseholdGarbage",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "593174216982c50100e93493"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593174876982c50100e93495",
+    "last_update": "2017-06-06T17:07:51.034Z",
+    "nr_ord": 14,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47546017514534,
+      "lng": 24.715429544448853
+    },
+    "created_at": "2017-06-02T14:21:59.823Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Aluminium"
+    ],
+    "images": [
+      "593174876982c50100e93496"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593174cb6982c50100e93498",
+    "last_update": "2017-06-06T17:07:51.034Z",
+    "nr_ord": 15,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47524856885297,
+      "lng": 24.716087737324415
+    },
+    "created_at": "2017-06-02T14:23:07.374Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Other"
+    ],
+    "images": [
+      "593174cb6982c50100e93499"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593175df6982c50100e9349b",
+    "last_update": "2017-06-06T17:07:51.035Z",
+    "nr_ord": 16,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47790924299396,
+      "lng": 24.71267386477848
+    },
+    "created_at": "2017-06-02T14:27:43.146Z",
+    "areas": [],
+    "content": [
+      "Glass"
+    ],
+    "images": [
+      "593175df6982c50100e9349c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593176116982c50100e9349e",
+    "last_update": "2017-06-06T17:07:51.041Z",
+    "nr_ord": 17,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "Tires",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.4770025,
+      "lng": 24.7134105
+    },
+    "created_at": "2017-06-02T14:28:33.614Z",
+    "areas": [
+      "forest",
+      "city"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "593176116982c50100e9349f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "593176df6982c50100e934a1",
+    "last_update": "2017-06-06T17:07:51.042Z",
+    "nr_ord": 18,
+    "user": "592d2ae36982c50100e9346a",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 4,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.47735037057739,
+      "lng": 24.713051798244123
+    },
+    "created_at": "2017-06-02T14:31:59.733Z",
+    "areas": [],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "593176df6982c50100e934a2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59317aef6982c50100e934a4",
+    "last_update": "2017-06-08T15:18:56.444Z",
+    "nr_ord": 19,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "Loads of pieces of glass 100m2 area",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "593969f16982c50100e934b7"
+    ],
+    "location": {
+      "lat": 59.4809533,
+      "lng": 24.7113435
+    },
+    "created_at": "2017-06-02T14:49:19.346Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Glass",
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "59317aef6982c50100e934a5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59317b6f6982c50100e934a7",
+    "last_update": "2017-06-06T17:07:51.043Z",
+    "nr_ord": 20,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "Rubber",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.481238228694195,
+      "lng": 24.711401499448584
+    },
+    "created_at": "2017-06-02T14:51:27.922Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "59317b6f6982c50100e934a8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59317ba76982c50100e934aa",
+    "last_update": "2017-06-06T17:07:51.043Z",
+    "nr_ord": 21,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 3,
+    "description": "Rubber",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-05-29T10:39:59.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.48034235455841,
+      "lng": 24.710826873779297
+    },
+    "created_at": "2017-06-02T14:52:23.131Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "59317ba76982c50100e934ab"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e172c5601b90100787182",
+    "last_update": "2017-06-24T07:39:24.447Z",
+    "nr_ord": 22,
+    "user": "594ce6af5601b90100787181",
+    "county": "5927f276f07cc813005d8a8c",
+    "city": null,
+    "size": 4,
+    "description": "An old fallen down hut or something similar. Wood might be left to rot away, but plenty of metal that needs to be disposed of. Location is not accurate, but nearby is an unused quarry",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-22T12:42:19.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 58.15276119918134,
+      "lng": 27.15723752975464
+    },
+    "created_at": "2017-06-24T07:39:24.417Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Building materials"
+    ],
+    "images": [
+      "594e172c5601b90100787183"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59508eb55601b90100787185",
+    "last_update": "2017-07-13T20:05:33.919Z",
+    "nr_ord": 23,
+    "user": "594ce6af5601b90100787181",
+    "county": "5927f276f07cc813005d8a8c",
+    "city": null,
+    "size": 3,
+    "description": "Soojustusvilla hunnik jaotunud umbes 50m ulatuses tee ääres",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-22T12:42:19.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "5967d10e5e394a0100f52eb6"
+    ],
+    "location": {
+      "lat": 58.17622456287912,
+      "lng": 26.89899719283858
+    },
+    "created_at": "2017-06-26T04:33:57.298Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "59508eb55601b90100787186",
+      "59508eb55601b90100787187"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5950dd7198d0da0100b281e3",
+    "last_update": "2017-06-27T14:12:17.839Z",
+    "nr_ord": 24,
+    "user": "592d61cc6982c50100e9346f",
+    "county": "5927f276f07cc813005d8a84",
+    "city": "5927f277f07cc813005d8a94",
+    "size": 1,
+    "description": "Between balti Jaam and Telliskivi",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T09:40:14.000Z"
+    },
+    "unconfirm": [
+      "5950d6245601b90100787189",
+      "5928f5e917e76f0100b3372d"
+    ],
+    "confirm": [],
+    "location": {
+      "lat": 59.44024237238322,
+      "lng": 24.733346700668335
+    },
+    "created_at": "2017-06-26T10:09:53.487Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "5950dd7198d0da0100b281e4"
+    ],
+    "status": "clean",
+    "__v": 0
+  },
+  {
+    "_id": "59551d8b9063bf0100fd5a89",
+    "last_update": "2017-07-13T20:27:40.347Z",
+    "nr_ord": 25,
+    "user": "594954883e610501002a1dd9",
+    "county": "5927f276f07cc813005d8a84",
+    "city": null,
+    "size": 2,
+    "description": "By the road, in the dich",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-26T11:56:27.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "5967d10e5e394a0100f52eb6"
+    ],
+    "location": {
+      "lat": 59.39089745472606,
+      "lng": 25.06626846608247
+    },
+    "created_at": "2017-06-29T15:32:27.995Z",
+    "areas": [],
+    "content": [
+      "Paper"
+    ],
+    "images": [
+      "59551d8c9063bf0100fd5a8a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5967ed2933a21701000378eb",
+    "last_update": "2017-07-13T21:59:05.690Z",
+    "nr_ord": 26,
+    "user": "593969f16982c50100e934b7",
+    "county": "5927f276f07cc813005d8a84",
+    "city": null,
+    "size": 4,
+    "description": "very bad!",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-13T20:43:49.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 59.45414959565874,
+      "lng": 25.2081298828125
+    },
+    "created_at": "2017-07-13T21:59:05.390Z",
+    "areas": [],
+    "content": [
+      "Household Garbage",
+      "Building materials"
+    ],
+    "images": [
+      "5967ed2933a21701000378ec"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5969010333a21701000378ef",
+    "last_update": "2017-07-19T07:02:27.214Z",
+    "nr_ord": 27,
+    "user": "5928f5e917e76f0100b3372d",
+    "county": "5927f276f07cc813005d8a84",
+    "city": null,
+    "size": 3,
+    "description": "Barb wire",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-13T20:43:49.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "594ce6af5601b90100787181"
+    ],
+    "location": {
+      "lat": 59.4338323,
+      "lng": 24.3512321
+    },
+    "created_at": "2017-07-14T17:36:03.137Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Other"
+    ],
+    "images": [
+      "5969010333a21701000378f0"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "596f395933a21701000378f3",
+    "last_update": "2017-07-19T10:50:01.852Z",
+    "nr_ord": 28,
+    "user": "593969a16982c50100e934b5",
+    "county": "5927f276f07cc813005d8a93",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-13T20:43:49.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 58.401348304303,
+      "lng": 25.4248003886978
+    },
+    "created_at": "2017-07-19T10:50:01.804Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "596f395933a21701000378f5",
+      "596f395933a21701000378f4"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "596f39fa33a21701000378f7",
+    "last_update": "2017-07-19T10:52:42.352Z",
+    "nr_ord": 29,
+    "user": "593969a16982c50100e934b5",
+    "county": "5927f276f07cc813005d8a93",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-13T20:43:49.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 58.401348304303,
+      "lng": 25.4248003886978
+    },
+    "created_at": "2017-07-19T10:52:42.341Z",
+    "areas": [],
+    "content": [
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "596f39fa33a21701000378f8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "596f901f33a21701000378fa",
+    "last_update": "2017-07-19T17:00:15.306Z",
+    "nr_ord": 30,
+    "user": "5959e6679063bf0100fd5a8d",
+    "county": "5927f276f07cc813005d8a91",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-07-13T20:43:49.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 57.884306,
+      "lng": 27.0043861
+    },
+    "created_at": "2017-07-19T17:00:15.295Z",
+    "areas": [
+      "forest"
+    ],
+    "content": [
+      "Paper",
+      "Plastic"
+    ],
+    "images": [
+      "596f901f33a21701000378fb"
+    ],
+    "status": "pending",
+    "__v": 0
+  }
+]

@@ -1,0 +1,2310 @@
+[
+  {
+    "_id": "594a67e727ae550100f4aef8",
+    "last_update": "2017-06-21T12:34:47.580Z",
+    "nr_ord": 1,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "description": "Construction waste on the street.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6881373,
+      "lng": 84.4434947
+    },
+    "created_at": "2017-06-21T12:34:47.565Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Other"
+    ],
+    "images": [
+      "594a67e727ae550100f4aef9"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a6d3727ae550100f4aefb",
+    "last_update": "2017-06-21T12:57:27.874Z",
+    "nr_ord": 2,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "description": "Construction waste on the street",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.688194,
+      "lng": 84.4435736
+    },
+    "created_at": "2017-06-21T12:57:27.863Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "BuildingMaterials"
+    ],
+    "images": [
+      "594a6d3727ae550100f4aefc"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594b8def27ae550100f4aeff",
+    "last_update": "2017-06-22T09:29:19.971Z",
+    "nr_ord": 3,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5660911,
+      "lng": 84.3289213
+    },
+    "created_at": "2017-06-22T09:29:19.962Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594b8def27ae550100f4af00"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594b8e2e27ae550100f4af02",
+    "last_update": "2017-06-22T09:30:22.152Z",
+    "nr_ord": 4,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5660911,
+      "lng": 84.3289213
+    },
+    "created_at": "2017-06-22T09:30:22.149Z",
+    "areas": [],
+    "content": [
+      "Glass",
+      "Plastic"
+    ],
+    "images": [
+      "594b8e2e27ae550100f4af03"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594b8e9c27ae550100f4af05",
+    "last_update": "2017-06-22T09:32:12.339Z",
+    "nr_ord": 5,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.569464735485823,
+      "lng": 84.32808786474197
+    },
+    "created_at": "2017-06-22T09:32:12.329Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594b8e9c27ae550100f4af06"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb00227ae550100f4af08",
+    "last_update": "2017-06-22T11:54:42.537Z",
+    "nr_ord": 6,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6863611,
+      "lng": 84.4293287
+    },
+    "created_at": "2017-06-22T11:54:42.528Z",
+    "areas": [],
+    "content": [
+      "BuildingMaterials",
+      "Plastic"
+    ],
+    "images": [
+      "594bb00227ae550100f4af09"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb0a627ae550100f4af0b",
+    "last_update": "2017-06-22T11:57:26.893Z",
+    "nr_ord": 7,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6864329,
+      "lng": 84.4289805
+    },
+    "created_at": "2017-06-22T11:57:26.889Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594bb0a627ae550100f4af0c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb10a27ae550100f4af0e",
+    "last_update": "2017-06-22T11:59:06.140Z",
+    "nr_ord": 8,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6864329,
+      "lng": 84.4289805
+    },
+    "created_at": "2017-06-22T11:59:06.137Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594bb10a27ae550100f4af0f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb16727ae550100f4af11",
+    "last_update": "2017-06-22T12:00:39.406Z",
+    "nr_ord": 9,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6864329,
+      "lng": 84.4289805
+    },
+    "created_at": "2017-06-22T12:00:39.401Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "BuildingMaterials",
+      "Other"
+    ],
+    "images": [
+      "594bb16727ae550100f4af12"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb4fc27ae550100f4af14",
+    "last_update": "2017-06-22T12:15:56.927Z",
+    "nr_ord": 10,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6916386,
+      "lng": 84.4406204
+    },
+    "created_at": "2017-06-22T12:15:56.917Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594bb4fc27ae550100f4af15"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb56827ae550100f4af17",
+    "last_update": "2017-06-22T12:17:44.482Z",
+    "nr_ord": 11,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6915061,
+      "lng": 84.4406095
+    },
+    "created_at": "2017-06-22T12:17:44.473Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper"
+    ],
+    "images": [
+      "594bb56827ae550100f4af18"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bb5e527ae550100f4af1a",
+    "last_update": "2017-06-22T12:19:49.592Z",
+    "nr_ord": 12,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6915061,
+      "lng": 84.4406095
+    },
+    "created_at": "2017-06-22T12:19:49.582Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594bb5e527ae550100f4af1b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bc01b27ae550100f4af1d",
+    "last_update": "2017-06-22T13:03:23.977Z",
+    "nr_ord": 13,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "description": "Waste from high street",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6913777,
+      "lng": 84.4380978
+    },
+    "created_at": "2017-06-22T13:03:23.967Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass"
+    ],
+    "images": [
+      "594bc01b27ae550100f4af1e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594bc2d327ae550100f4af20",
+    "last_update": "2017-06-22T13:14:59.433Z",
+    "nr_ord": 14,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6862381,
+      "lng": 84.4292472
+    },
+    "created_at": "2017-06-22T13:14:59.430Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "594bc2d327ae550100f4af21"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c762327ae550100f4af23",
+    "last_update": "2017-06-23T02:00:03.077Z",
+    "nr_ord": 15,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5844696,
+      "lng": 84.2501215
+    },
+    "created_at": "2017-06-23T02:00:03.068Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594c762327ae550100f4af24"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c76b627ae550100f4af26",
+    "last_update": "2017-06-23T02:02:30.111Z",
+    "nr_ord": 16,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5844696,
+      "lng": 84.2501215
+    },
+    "created_at": "2017-06-23T02:02:30.107Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Paper"
+    ],
+    "images": [
+      "594c76b627ae550100f4af27"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9b3227ae550100f4af29",
+    "last_update": "2017-06-23T04:38:10.177Z",
+    "nr_ord": 17,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5836231,
+      "lng": 84.295265
+    },
+    "created_at": "2017-06-23T04:38:10.167Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass"
+    ],
+    "images": [
+      "594c9b3227ae550100f4af2a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9b9c27ae550100f4af2c",
+    "last_update": "2017-06-23T04:39:56.039Z",
+    "nr_ord": 18,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5836231,
+      "lng": 84.295265
+    },
+    "created_at": "2017-06-23T04:39:56.021Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594c9b9c27ae550100f4af2d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9c1f27ae550100f4af2f",
+    "last_update": "2017-06-23T04:42:07.819Z",
+    "nr_ord": 19,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "description": "Edge of the street",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5836231,
+      "lng": 84.295265
+    },
+    "created_at": "2017-06-23T04:42:07.809Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594c9c1f27ae550100f4af30"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9c7727ae550100f4af32",
+    "last_update": "2017-06-23T04:43:35.060Z",
+    "nr_ord": 20,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5836231,
+      "lng": 84.295265
+    },
+    "created_at": "2017-06-23T04:43:35.052Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594c9c7727ae550100f4af33"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594ce96a27ae550100f4af35",
+    "last_update": "2017-06-23T10:11:54.343Z",
+    "nr_ord": 21,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6784353,
+      "lng": 84.4294523
+    },
+    "created_at": "2017-06-23T10:11:54.334Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "594ce96a27ae550100f4af36"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594ce9d527ae550100f4af38",
+    "last_update": "2017-06-23T10:13:41.243Z",
+    "nr_ord": 22,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6784353,
+      "lng": 84.4294523
+    },
+    "created_at": "2017-06-23T10:13:41.235Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "594ce9d527ae550100f4af39"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594ceb7e27ae550100f4af3b",
+    "last_update": "2017-06-23T10:20:46.151Z",
+    "nr_ord": 23,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.680176574810698,
+      "lng": 84.42983190514497
+    },
+    "created_at": "2017-06-23T10:20:46.142Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594ceb7e27ae550100f4af3c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594cf09727ae550100f4af3e",
+    "last_update": "2017-06-23T10:42:31.053Z",
+    "nr_ord": 24,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6801282,
+      "lng": 84.4366416
+    },
+    "created_at": "2017-06-23T10:42:31.044Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper",
+      "Plastic"
+    ],
+    "images": [
+      "594cf09727ae550100f4af3f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594db49527ae550100f4af41",
+    "last_update": "2017-06-24T00:38:45.288Z",
+    "nr_ord": 25,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.688165,
+      "lng": 84.4434202
+    },
+    "created_at": "2017-06-24T00:38:45.278Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594db49527ae550100f4af42"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594db8ee27ae550100f4af44",
+    "last_update": "2017-06-24T00:57:18.282Z",
+    "nr_ord": 26,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6675903,
+      "lng": 84.449348
+    },
+    "created_at": "2017-06-24T00:57:18.270Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594db8ee27ae550100f4af45"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594db94827ae550100f4af47",
+    "last_update": "2017-06-24T00:58:48.324Z",
+    "nr_ord": 27,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6675903,
+      "lng": 84.449348
+    },
+    "created_at": "2017-06-24T00:58:48.315Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594db94827ae550100f4af48"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594df6d927ae550100f4af4a",
+    "last_update": "2017-06-24T05:21:29.384Z",
+    "nr_ord": 28,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6834456,
+      "lng": 84.4339342
+    },
+    "created_at": "2017-06-24T05:21:29.372Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594df6d927ae550100f4af4b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594df7b627ae550100f4af4d",
+    "last_update": "2017-06-24T05:25:10.448Z",
+    "nr_ord": 29,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6834456,
+      "lng": 84.4339342
+    },
+    "created_at": "2017-06-24T05:25:10.438Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "594df7b627ae550100f4af4e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594df9f827ae550100f4af50",
+    "last_update": "2017-06-24T05:34:48.820Z",
+    "nr_ord": 30,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.685181188975722,
+      "lng": 84.42971706390381
+    },
+    "created_at": "2017-06-24T05:34:48.803Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "594df9f827ae550100f4af51"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594dfa6327ae550100f4af53",
+    "last_update": "2017-06-24T05:36:35.049Z",
+    "nr_ord": 31,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 4,
+    "description": "Hotel and other waste",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.685181188975722,
+      "lng": 84.42971706390381
+    },
+    "created_at": "2017-06-24T05:36:35.028Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594dfa6327ae550100f4af54"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594dfaa027ae550100f4af56",
+    "last_update": "2017-06-24T05:37:36.408Z",
+    "nr_ord": 32,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.685181188975722,
+      "lng": 84.42971706390381
+    },
+    "created_at": "2017-06-24T05:37:36.391Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594dfaa027ae550100f4af57"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594dfaf427ae550100f4af59",
+    "last_update": "2017-06-24T05:39:00.801Z",
+    "nr_ord": 33,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.685010179254657,
+      "lng": 84.43164825439453
+    },
+    "created_at": "2017-06-24T05:39:00.781Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "594dfaf427ae550100f4af5a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594dfbb927ae550100f4af5c",
+    "last_update": "2017-06-24T05:42:17.461Z",
+    "nr_ord": 34,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6832975,
+      "lng": 84.4302421
+    },
+    "created_at": "2017-06-24T05:42:17.440Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass"
+    ],
+    "images": [
+      "594dfbb927ae550100f4af5d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e06ea27ae550100f4af5f",
+    "last_update": "2017-06-24T06:30:02.329Z",
+    "nr_ord": 35,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6851014,
+      "lng": 84.4290934
+    },
+    "created_at": "2017-06-24T06:30:02.309Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594e06ea27ae550100f4af60"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e666a27ae550100f4af62",
+    "last_update": "2017-06-24T13:17:30.035Z",
+    "nr_ord": 36,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6882642,
+      "lng": 84.4435986
+    },
+    "created_at": "2017-06-24T13:17:30.014Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594e666a27ae550100f4af63"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e666a27ae550100f4af65",
+    "last_update": "2017-06-24T13:17:30.474Z",
+    "nr_ord": 37,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.68889442849757,
+      "lng": 84.44493643321037
+    },
+    "created_at": "2017-06-24T13:17:30.454Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594e666a27ae550100f4af66"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594f881c27ae550100f4af68",
+    "last_update": "2017-06-25T09:53:32.092Z",
+    "nr_ord": 38,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.590921725136308,
+      "lng": 84.27021046557113
+    },
+    "created_at": "2017-06-25T09:53:32.081Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594f881c27ae550100f4af69"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594f894d27ae550100f4af6b",
+    "last_update": "2017-06-25T09:58:37.265Z",
+    "nr_ord": 39,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "description": "edge of the street",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.590921725136308,
+      "lng": 84.27021046557113
+    },
+    "created_at": "2017-06-25T09:58:37.255Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "594f894d27ae550100f4af6c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594f90fa27ae550100f4af6e",
+    "last_update": "2017-06-25T10:31:22.152Z",
+    "nr_ord": 40,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.60067040660027,
+      "lng": 84.27195819967892
+    },
+    "created_at": "2017-06-25T10:31:22.143Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594f90fa27ae550100f4af6f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595073a327ae550100f4af71",
+    "last_update": "2017-06-26T02:38:27.674Z",
+    "nr_ord": 41,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.579271,
+      "lng": 84.2316773
+    },
+    "created_at": "2017-06-26T02:38:27.664Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "595073a327ae550100f4af72"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5950c83327ae550100f4af74",
+    "last_update": "2017-06-26T08:39:15.620Z",
+    "nr_ord": 42,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5823506,
+      "lng": 84.2466912
+    },
+    "created_at": "2017-06-26T08:39:15.609Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5950c83327ae550100f4af75"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59532e4b27ae550100f4af77",
+    "last_update": "2017-06-28T04:19:23.995Z",
+    "nr_ord": 43,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.603902428187208,
+      "lng": 84.33135509490967
+    },
+    "created_at": "2017-06-28T04:19:23.990Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "59532e4b27ae550100f4af78"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59532ea727ae550100f4af7a",
+    "last_update": "2017-06-28T04:20:55.957Z",
+    "nr_ord": 44,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "description": "School permises",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6039721,
+      "lng": 84.3318339
+    },
+    "created_at": "2017-06-28T04:20:55.947Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper"
+    ],
+    "images": [
+      "59532ea727ae550100f4af7b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953323627ae550100f4af7d",
+    "last_update": "2017-06-28T04:36:06.913Z",
+    "nr_ord": 45,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6039249,
+      "lng": 84.3315154
+    },
+    "created_at": "2017-06-28T04:36:06.909Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5953323627ae550100f4af7e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953328927ae550100f4af80",
+    "last_update": "2017-06-28T04:37:29.534Z",
+    "nr_ord": 46,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.620881675830503,
+      "lng": 84.3475341796875
+    },
+    "created_at": "2017-06-28T04:37:29.530Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "5953328927ae550100f4af81"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953362427ae550100f4af83",
+    "last_update": "2017-06-28T04:52:52.252Z",
+    "nr_ord": 47,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "description": "school permises",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6038825,
+      "lng": 84.3306165
+    },
+    "created_at": "2017-06-28T04:52:52.243Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "5953362427ae550100f4af84"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59534b1627ae550100f4af86",
+    "last_update": "2017-06-28T06:22:14.743Z",
+    "nr_ord": 48,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.603940458557968,
+      "lng": 84.33161258697508
+    },
+    "created_at": "2017-06-28T06:22:14.732Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Other"
+    ],
+    "images": [
+      "59534b1627ae550100f4af87"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59534b7027ae550100f4af89",
+    "last_update": "2017-06-28T06:23:44.408Z",
+    "nr_ord": 49,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.603940458557968,
+      "lng": 84.33161258697508
+    },
+    "created_at": "2017-06-28T06:23:44.398Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "59534b7027ae550100f4af8a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59534bcf27ae550100f4af8c",
+    "last_update": "2017-06-28T06:25:19.479Z",
+    "nr_ord": 50,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 3,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.608561050379677,
+      "lng": 84.33551788330078
+    },
+    "created_at": "2017-06-28T06:25:19.470Z",
+    "areas": [],
+    "content": [
+      "BuildingMaterials",
+      "Plastic"
+    ],
+    "images": [
+      "59534bcf27ae550100f4af8d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953654627ae550100f4af8f",
+    "last_update": "2017-06-28T08:13:58.867Z",
+    "nr_ord": 51,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6039578,
+      "lng": 84.3316233
+    },
+    "created_at": "2017-06-28T08:13:58.864Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5953654627ae550100f4af90"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953655a27ae550100f4af92",
+    "last_update": "2017-06-28T08:14:18.416Z",
+    "nr_ord": 52,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6039578,
+      "lng": 84.3316233
+    },
+    "created_at": "2017-06-28T08:14:18.407Z",
+    "areas": [],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5953655a27ae550100f4af93"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595365a527ae550100f4af95",
+    "last_update": "2017-06-28T08:15:33.644Z",
+    "nr_ord": 53,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "description": "plastic bottle",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.603940458557968,
+      "lng": 84.33161258697508
+    },
+    "created_at": "2017-06-28T08:15:33.637Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "595365a527ae550100f4af96"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953661727ae550100f4af98",
+    "last_update": "2017-06-28T08:17:27.025Z",
+    "nr_ord": 54,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "description": "Edge of the Road.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.618219929678975,
+      "lng": 84.34083938598631
+    },
+    "created_at": "2017-06-28T08:17:27.015Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5953661727ae550100f4af99"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595367a727ae550100f4af9b",
+    "last_update": "2017-06-28T08:24:07.648Z",
+    "nr_ord": 55,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.617554483032045,
+      "lng": 84.29603576660156
+    },
+    "created_at": "2017-06-28T08:24:07.643Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "595367a727ae550100f4af9c"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953680e27ae550100f4af9e",
+    "last_update": "2017-06-28T08:25:50.539Z",
+    "nr_ord": 56,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.616318642817358,
+      "lng": 84.28916931152344
+    },
+    "created_at": "2017-06-28T08:25:50.529Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5953680e27ae550100f4af9f"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953687b27ae550100f4afa1",
+    "last_update": "2017-06-28T08:27:39.614Z",
+    "nr_ord": 57,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.616318642817358,
+      "lng": 84.28916931152344
+    },
+    "created_at": "2017-06-28T08:27:39.604Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5953687b27ae550100f4afa2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595368b427ae550100f4afa4",
+    "last_update": "2017-06-28T08:28:36.069Z",
+    "nr_ord": 58,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.630615510736806,
+      "lng": 84.30084228515625
+    },
+    "created_at": "2017-06-28T08:28:36.059Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "595368b427ae550100f4afa5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59545e2f27ae550100f4afa9",
+    "last_update": "2017-06-29T01:55:59.035Z",
+    "nr_ord": 59,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.687274,
+      "lng": 84.439913
+    },
+    "created_at": "2017-06-29T01:55:59.016Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "59545e2f27ae550100f4afaa"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595479f927ae550100f4afac",
+    "last_update": "2017-06-29T03:54:33.051Z",
+    "nr_ord": 60,
+    "user": "5953c55627ae550100f4afa7",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.64615245318567,
+      "lng": 84.32325679736095
+    },
+    "created_at": "2017-06-29T03:54:33.041Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "Other"
+    ],
+    "images": [
+      "595479f927ae550100f4afad"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59547d0f27ae550100f4afaf",
+    "last_update": "2017-06-29T04:07:43.348Z",
+    "nr_ord": 61,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "description": "Edge of the road.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.56641708380036,
+      "lng": 84.31251525878906
+    },
+    "created_at": "2017-06-29T04:07:43.345Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "59547d0f27ae550100f4afb0"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59547d7327ae550100f4afb2",
+    "last_update": "2017-06-29T04:09:23.079Z",
+    "nr_ord": 62,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "description": "Edge of the road .",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.544476958021626,
+      "lng": 84.31841148762032
+    },
+    "created_at": "2017-06-29T04:09:23.070Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Glass",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "59547d7327ae550100f4afb3"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954a48f27ae550100f4afb5",
+    "last_update": "2017-06-29T06:56:15.568Z",
+    "nr_ord": 63,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.582203950355257,
+      "lng": 84.3094253540039
+    },
+    "created_at": "2017-06-29T06:56:15.559Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "5954a48f27ae550100f4afb6"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954a51127ae550100f4afb8",
+    "last_update": "2017-06-29T06:58:25.462Z",
+    "nr_ord": 64,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.581838475682773,
+      "lng": 84.31494771197322
+    },
+    "created_at": "2017-06-29T06:58:25.458Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5954a51127ae550100f4afb9"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954b24227ae550100f4afbb",
+    "last_update": "2017-06-29T07:54:42.757Z",
+    "nr_ord": 65,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5815568,
+      "lng": 84.3084112
+    },
+    "created_at": "2017-06-29T07:54:42.748Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5954b24227ae550100f4afbc"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954b27927ae550100f4afbe",
+    "last_update": "2017-06-29T07:55:37.285Z",
+    "nr_ord": 66,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.583468930934323,
+      "lng": 84.30886067435495
+    },
+    "created_at": "2017-06-29T07:55:37.275Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "5954b27927ae550100f4afbf"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954b29b27ae550100f4afc1",
+    "last_update": "2017-06-29T07:56:11.670Z",
+    "nr_ord": 67,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.583468930934323,
+      "lng": 84.30886067435495
+    },
+    "created_at": "2017-06-29T07:56:11.660Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "5954b29b27ae550100f4afc2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954c1cf27ae550100f4afc4",
+    "last_update": "2017-06-29T09:01:03.082Z",
+    "nr_ord": 68,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5815568,
+      "lng": 84.3084112
+    },
+    "created_at": "2017-06-29T09:01:03.079Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "5954c1cf27ae550100f4afc5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5954c21827ae550100f4afc7",
+    "last_update": "2017-06-29T09:02:16.588Z",
+    "nr_ord": 69,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 1,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.5815568,
+      "lng": 84.3084112
+    },
+    "created_at": "2017-06-29T09:02:16.585Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5954c21827ae550100f4afc8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955db0227ae550100f4afca",
+    "last_update": "2017-06-30T05:00:50.985Z",
+    "nr_ord": 70,
+    "user": "5949de7027ae550100f4aef5",
+    "county": "5936ed32206f4a1500ffd34d",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.708227048339083,
+      "lng": 84.4295883178711
+    },
+    "created_at": "2017-06-30T05:00:50.980Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "5955db0227ae550100f4afcb"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595647d127ae550100f4afcd",
+    "last_update": "2017-06-30T12:45:05.726Z",
+    "nr_ord": 71,
+    "user": "5953c55627ae550100f4afa7",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6830071,
+      "lng": 84.3393308
+    },
+    "created_at": "2017-06-30T12:45:05.717Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "595647d127ae550100f4afce"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5956488727ae550100f4afd0",
+    "last_update": "2017-06-30T12:48:07.689Z",
+    "nr_ord": 72,
+    "user": "5953c55627ae550100f4afa7",
+    "county": "5936ed32206f4a1500ffd349",
+    "city": null,
+    "size": 2,
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-21T02:27:17.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 27.6670871,
+      "lng": 84.3294376
+    },
+    "created_at": "2017-06-30T12:48:07.685Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "5956488727ae550100f4afd1"
+    ],
+    "status": "pending",
+    "__v": 0
+  }
+]

@@ -1,0 +1,1408 @@
+[
+  {
+    "_id": "5943f2a14e33a101005ee247",
+    "last_update": "2017-06-17T14:02:06.076Z",
+    "nr_ord": 1,
+    "user": "594108594e33a101005ee246",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 1,
+    "description": "Testing",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-09T15:31:42.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "59452c444e33a101005ee255"
+    ],
+    "location": {
+      "lat": 6.585020013747097,
+      "lng": 3.36512098497133
+    },
+    "created_at": "2017-06-16T15:00:49.817Z",
+    "areas": [],
+    "content": [
+      "Paper"
+    ],
+    "images": [
+      "5943f2a14e33a101005ee248"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59457d004e33a101005ee258",
+    "last_update": "2017-06-17T19:05:21.418Z",
+    "nr_ord": 2,
+    "user": "594442014e33a101005ee24d",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Dump site is illegal and close to a beach front in Lekki, Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-09T15:31:42.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "59452c444e33a101005ee255"
+    ],
+    "location": {
+      "lat": 6.5717152,
+      "lng": 3.3963806
+    },
+    "created_at": "2017-06-17T19:03:28.108Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "59457d004e33a101005ee259",
+      "59457d004e33a101005ee25a",
+      "59457d004e33a101005ee25b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59468d854e33a101005ee26b",
+    "last_update": "2017-06-30T06:55:32.553Z",
+    "nr_ord": 3,
+    "user": "59443c5e4e33a101005ee24a",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "This trash is situated at Obalende outward Adekunle- third mainland bridge.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-09T15:31:42.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "5950d848ba503001008ecea6"
+    ],
+    "location": {
+      "lat": 6.6336074,
+      "lng": 3.3688725
+    },
+    "created_at": "2017-06-18T14:26:13.179Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper",
+      "HouseholdGarbage",
+      "Glass",
+      "Textiles"
+    ],
+    "images": [
+      "59468d854e33a101005ee26c",
+      "59468d854e33a101005ee26d",
+      "59468d854e33a101005ee26e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594a19c56a4efc010060160d",
+    "last_update": "2017-06-21T07:01:25.816Z",
+    "nr_ord": 4,
+    "user": "594803e34e33a101005ee285",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 2,
+    "description": "odo iya laro bridge Facing traffic to  Maryland",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.6381265,
+      "lng": 3.3340121
+    },
+    "created_at": "2017-06-21T07:01:25.787Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper"
+    ],
+    "images": [
+      "594a19c56a4efc010060160e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594b99446a4efc010060161b",
+    "last_update": "2017-06-27T08:14:59.607Z",
+    "nr_ord": 5,
+    "user": "594a5f066a4efc0100601614",
+    "county": "5936e5d45ad96f1500b7989d",
+    "city": null,
+    "size": 4,
+    "description": "Huge waste at Ladipo, Mushin.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "594803e34e33a101005ee285"
+    ],
+    "location": {
+      "lat": 9.06799084694002,
+      "lng": 8.745117187499998
+    },
+    "created_at": "2017-06-22T10:17:40.293Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "Plastic",
+      "Glass",
+      "ElectronicWaste",
+      "Textiles"
+    ],
+    "images": [
+      "594b99446a4efc010060161c",
+      "594b99446a4efc010060161d",
+      "594b99446a4efc010060161e"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c454a6a4efc0100601620",
+    "last_update": "2017-06-22T22:31:38.974Z",
+    "nr_ord": 6,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Ladipo Automobile Spare Part Market, Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.543195511690449,
+      "lng": 3.3426989903091453
+    },
+    "created_at": "2017-06-22T22:31:38.952Z",
+    "areas": [],
+    "content": [
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "594c454a6a4efc0100601621"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c45fc6a4efc0100601623",
+    "last_update": "2017-06-22T22:34:36.319Z",
+    "nr_ord": 7,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Ladipo Automobile Spare Part Market, Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.543195511690449,
+      "lng": 3.3426989903091453
+    },
+    "created_at": "2017-06-22T22:34:36.301Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "ElectronicWaste"
+    ],
+    "images": [
+      "594c45fc6a4efc0100601624"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c46f86a4efc0100601626",
+    "last_update": "2017-06-22T22:38:48.281Z",
+    "nr_ord": 8,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Total Fuel Station drainage beside Sura Shopping Complex,  Lagos.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.455715508097957,
+      "lng": 3.405693563399836
+    },
+    "created_at": "2017-06-22T22:38:48.276Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "594c46f86a4efc0100601627"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9a3b6a4efc0100601629",
+    "last_update": "2017-06-23T04:34:03.548Z",
+    "nr_ord": 9,
+    "user": "594836896a4efc0100601602",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 2,
+    "description": "Clean up and Mapping Exercise carried out at Ladipo Market. Lagos.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.5320376,
+      "lng": 3.3061367
+    },
+    "created_at": "2017-06-23T04:34:03.539Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic"
+    ],
+    "images": [
+      "594c9a3b6a4efc010060162a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594c9b556a4efc010060162c",
+    "last_update": "2017-06-23T04:38:45.554Z",
+    "nr_ord": 10,
+    "user": "594836896a4efc0100601602",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 2,
+    "description": "Ladipo Market Motor Spare Parts",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.532024936457726,
+      "lng": 3.306155204772949
+    },
+    "created_at": "2017-06-23T04:38:45.535Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "ElectronicWaste"
+    ],
+    "images": [
+      "594c9b556a4efc010060162d"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e0f716a4efc0100601631",
+    "last_update": "2017-06-24T07:06:25.812Z",
+    "nr_ord": 11,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Iddo market by carter bridge with tyers, take away packs,  pet bottles, sachet water nylon.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-19T19:51:03.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.4692017,
+      "lng": 3.381962
+    },
+    "created_at": "2017-06-24T07:06:25.801Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Other"
+    ],
+    "images": [
+      "594e0f716a4efc0100601632"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "594e8317ba503001008ecea1",
+    "last_update": "2017-06-24T15:19:51.034Z",
+    "nr_ord": 12,
+    "user": "5947ca184e33a101005ee27e",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Its on the road at hostel busstop at egbe area of Lagos State",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.5594103,
+      "lng": 3.3689589
+    },
+    "created_at": "2017-06-24T15:19:51.011Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "Plastic",
+      "Other"
+    ],
+    "images": [
+      "594e8317ba503001008ecea2",
+      "594e8317ba503001008ecea3",
+      "594e8317ba503001008ecea4"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59511abdba503001008eceaa",
+    "last_update": "2017-06-26T14:31:25.351Z",
+    "nr_ord": 13,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Behind Presbyterian Church Muritala Muhammed Way Yaba Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.5118231519357685,
+      "lng": 3.3704732482874533
+    },
+    "created_at": "2017-06-26T14:31:25.316Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper",
+      "HouseholdGarbage",
+      "Other"
+    ],
+    "images": [
+      "59511abdba503001008eceab",
+      "59511abdba503001008eceac"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59511b3cba503001008eceae",
+    "last_update": "2017-06-26T14:33:32.551Z",
+    "nr_ord": 14,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Oyingbo market round about,  Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.48045428309932,
+      "lng": 3.3834467292035697
+    },
+    "created_at": "2017-06-26T14:33:32.528Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "HouseholdGarbage",
+      "Other",
+      "Paper"
+    ],
+    "images": [
+      "59511b3cba503001008eceaf"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59511bceba503001008eceb1",
+    "last_update": "2017-06-26T14:35:58.302Z",
+    "nr_ord": 15,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Beside McCullum Street off Muritala Muhammed Way Yaba Lagos.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.492165320577815,
+      "lng": 3.3789410037570633
+    },
+    "created_at": "2017-06-26T14:35:58.266Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "59511bceba503001008eceb3",
+      "59511bceba503001008eceb2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59511c99ba503001008eceb5",
+    "last_update": "2017-06-26T14:39:21.960Z",
+    "nr_ord": 16,
+    "user": "5947b8b84e33a101005ee273",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Glover Street Junction by Herbert Macaulay Way, Yaba Lagos",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.485566375722782,
+      "lng": 3.3848691126331683
+    },
+    "created_at": "2017-06-26T14:39:21.939Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Paper",
+      "HouseholdGarbage",
+      "ElectronicWaste",
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "59511c99ba503001008eceb7",
+      "59511c99ba503001008eceb8",
+      "59511c99ba503001008eceb6"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59512e11ba503001008ecebb",
+    "last_update": "2017-06-26T15:53:53.823Z",
+    "nr_ord": 17,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 2,
+    "description": "Dumped in a drainage on demurin street",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.597489378640281,
+      "lng": 3.392157554626465
+    },
+    "created_at": "2017-06-26T15:53:53.803Z",
+    "areas": [],
+    "content": [
+      "HouseholdGarbage",
+      "Plastic",
+      "Glass"
+    ],
+    "images": [
+      "59512e11ba503001008ecebc"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59512f96ba503001008ecebe",
+    "last_update": "2017-06-26T16:00:23.003Z",
+    "nr_ord": 18,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Illegal dump sites at a building",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.597755823257941,
+      "lng": 3.388187885284424
+    },
+    "created_at": "2017-06-26T16:00:22.991Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "HouseholdGarbage",
+      "Paper"
+    ],
+    "images": [
+      "59512f96ba503001008ecebf"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595144bfba503001008ecec1",
+    "last_update": "2017-06-26T17:30:39.029Z",
+    "nr_ord": 19,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Bad refuse dumps by people living around",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.599077386443092,
+      "lng": 3.387329578399658
+    },
+    "created_at": "2017-06-26T17:30:39.017Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Aluminium",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles",
+      "BuildingMaterials"
+    ],
+    "images": [
+      "595144bfba503001008ecec2"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59514573ba503001008ecec4",
+    "last_update": "2017-06-26T17:33:39.386Z",
+    "nr_ord": 20,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 1,
+    "description": "Illegal dumps by market women",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.599874052869248,
+      "lng": 3.3877211809158325
+    },
+    "created_at": "2017-06-26T17:33:39.375Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "59514573ba503001008ecec5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59515488ba503001008ecec7",
+    "last_update": "2017-06-26T18:38:00.947Z",
+    "nr_ord": 21,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Organic wastes and some used items",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.600076549816754,
+      "lng": 3.3878928422927856
+    },
+    "created_at": "2017-06-26T18:38:00.943Z",
+    "areas": [],
+    "content": [
+      "Aluminium",
+      "Plastic",
+      "Glass",
+      "HouseholdGarbage",
+      "ElectronicWaste",
+      "Textiles"
+    ],
+    "images": [
+      "59515488ba503001008ecec8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59515551ba503001008ececa",
+    "last_update": "2017-06-26T18:41:21.640Z",
+    "nr_ord": 22,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Waste dump in drainage",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.598978802214299,
+      "lng": 3.3870774507522583
+    },
+    "created_at": "2017-06-26T18:41:21.628Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "59515551ba503001008ececb"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59524ca2ba503001008eced4",
+    "last_update": "2017-06-27T12:16:34.404Z",
+    "nr_ord": 23,
+    "user": "594818f14e33a101005ee286",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Illegal dump sites",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.544272023583148,
+      "lng": 3.359162481574458
+    },
+    "created_at": "2017-06-27T12:16:34.386Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Aluminium",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Batteries",
+      "Textiles"
+    ],
+    "images": [
+      "59524ca2ba503001008eced5"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59529545ba503001008eced8",
+    "last_update": "2017-06-27T17:26:29.770Z",
+    "nr_ord": 24,
+    "user": "594b68826a4efc0100601619",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Community dumpsite due to delay in household disposal",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.489501879192845,
+      "lng": 3.3242278014222393
+    },
+    "created_at": "2017-06-27T17:26:29.751Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "59529545ba503001008eced9"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59529bafba503001008ecedb",
+    "last_update": "2017-06-30T07:20:04.553Z",
+    "nr_ord": 25,
+    "user": "5952816dba503001008eced7",
+    "county": "5936e5d45ad96f1500b7989d",
+    "city": null,
+    "size": 1,
+    "description": "Snap short was taking at a leisure park in olodi apapa",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [
+      "5950d848ba503001008ecea6"
+    ],
+    "location": {
+      "lat": 9.06799084694002,
+      "lng": 8.745117187499998
+    },
+    "created_at": "2017-06-27T17:53:51.024Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "BuildingMaterials",
+      "Textiles"
+    ],
+    "images": [
+      "59529bafba503001008ecedc",
+      "59529bafba503001008ecede",
+      "59529bafba503001008ecedd"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59529c60ba503001008ecee0",
+    "last_update": "2017-06-27T17:56:48.338Z",
+    "nr_ord": 26,
+    "user": "5952816dba503001008eced7",
+    "county": "5936e5d45ad96f1500b7989d",
+    "city": null,
+    "size": 1,
+    "description": "Snap short was taking at ambose in olodi apapa",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 9.058702156392114,
+      "lng": 8.756103515625
+    },
+    "created_at": "2017-06-27T17:56:48.334Z",
+    "areas": [],
+    "content": [
+      "Paper",
+      "HouseholdGarbage",
+      "Glass"
+    ],
+    "images": [
+      "59529c60ba503001008ecee1"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5953b3e9ba503001008ecee3",
+    "last_update": "2017-06-28T13:49:29.605Z",
+    "nr_ord": 27,
+    "user": "594e725fba503001008ece9f",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 2,
+    "description": "Illegal dump",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.595997286133203,
+      "lng": 3.3414745330810547
+    },
+    "created_at": "2017-06-28T13:49:29.601Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "5953b3e9ba503001008ecee4"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5955f7ffba503001008eceec",
+    "last_update": "2017-06-30T07:04:31.921Z",
+    "nr_ord": 28,
+    "user": "5950d848ba503001008ecea6",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "This is within Ojodu",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.638852395764876,
+      "lng": 3.3712398433999624
+    },
+    "created_at": "2017-06-30T07:04:31.910Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "5955f7ffba503001008eceed"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5956c8e8ba503001008ecef3",
+    "last_update": "2017-06-30T21:55:52.233Z",
+    "nr_ord": 29,
+    "user": "59543527ba503001008ecee7",
+    "county": "5936e5d45ad96f1500b7989b",
+    "city": null,
+    "size": 4,
+    "description": "It is behind Texax hotel Basin, Ilorin.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 8.515750676789944,
+      "lng": 4.592628479003906
+    },
+    "created_at": "2017-06-30T21:55:52.222Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Paper",
+      "HouseholdGarbage",
+      "Other",
+      "Plastic"
+    ],
+    "images": [
+      "5956c8e8ba503001008ecef4"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59576e14ba503001008ecef7",
+    "last_update": "2017-07-01T09:40:36.191Z",
+    "nr_ord": 30,
+    "user": "59463d1b4e33a101005ee263",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Montgomery Road off Harbert McCauley",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.511086398940354,
+      "lng": 3.3769428424329817
+    },
+    "created_at": "2017-07-01T09:40:36.185Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "59576e14ba503001008ecef8"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59576f1cba503001008ecefa",
+    "last_update": "2017-07-01T09:45:00.593Z",
+    "nr_ord": 31,
+    "user": "59463d1b4e33a101005ee263",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Jibowu bridge",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.522739694477008,
+      "lng": 3.3668672425483233
+    },
+    "created_at": "2017-07-01T09:45:00.590Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "Other"
+    ],
+    "images": [
+      "59576f1cba503001008ecefb"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5957e6e7ba503001008ecefd",
+    "last_update": "2017-07-01T18:16:07.541Z",
+    "nr_ord": 32,
+    "user": "5947ca184e33a101005ee27e",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Its on the road beside a school opposite Mama Jay Bar in Jakande Estate at Mile 2",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.4665076,
+      "lng": 3.3130592
+    },
+    "created_at": "2017-07-01T18:16:07.523Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles",
+      "Other",
+      "ElectronicWaste"
+    ],
+    "images": [
+      "5957e6e7ba503001008ecefe",
+      "5957e6e7ba503001008eceff",
+      "5957e6e7ba503001008ecf00"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5957f7f9ba503001008ecf02",
+    "last_update": "2017-07-01T19:28:57.679Z",
+    "nr_ord": 33,
+    "user": "594442014e33a101005ee24d",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "The waste was found clogging a major drainage channel in the middle of Fola Agoro, Lagos.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.5740416917346876,
+      "lng": 3.3954191207885738
+    },
+    "created_at": "2017-07-01T19:28:57.663Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Other"
+    ],
+    "images": [
+      "5957f7f9ba503001008ecf04",
+      "5957f7f9ba503001008ecf05",
+      "5957f7f9ba503001008ecf03"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595a4c80ba503001008ecf07",
+    "last_update": "2017-07-03T13:54:08.809Z",
+    "nr_ord": 34,
+    "user": "5952816dba503001008eced7",
+    "county": "5936e5d45ad96f1500b7989d",
+    "city": null,
+    "size": 1,
+    "description": "I was so determined to make pilot mapping in ajegunle a huge success, i experienced some major set back like some of my fellow volunteers did not turn up for the mapping in Adidas Park Tolu and it enviro, and there was heavy down pour before the mapping. \r\n         I was determined to make our pilot mapping in Ajegunle a huge succes, so i took to one of the venue (Adidas Park Tolu Complex), Ambrose Street, both in Ajegunle",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 7.780097146522825,
+      "lng": 8.395070470869541
+    },
+    "created_at": "2017-07-03T13:54:08.797Z",
+    "areas": [
+      "field"
+    ],
+    "content": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles"
+    ],
+    "images": [
+      "595a4c80ba503001008ecf08",
+      "595a4c80ba503001008ecf09",
+      "595a4c80ba503001008ecf0a"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595bdceaba503001008ecf0e",
+    "last_update": "2017-07-04T18:22:34.254Z",
+    "nr_ord": 35,
+    "user": "5947ca184e33a101005ee27e",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "It on the main road from fatgbems filling station leading to Golden Tulip",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.4728748,
+      "lng": 3.2797356
+    },
+    "created_at": "2017-07-04T18:22:34.243Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Batteries",
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "595bdceaba503001008ecf0f",
+      "595bdceaba503001008ecf10"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "595c9e8aba503001008ecf13",
+    "last_update": "2017-07-05T08:08:42.024Z",
+    "nr_ord": 36,
+    "user": "594a45bd6a4efc0100601610",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 4,
+    "description": "Under obalende bridge",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.449143962755493,
+      "lng": 3.407834658519277
+    },
+    "created_at": "2017-07-05T08:08:42.013Z",
+    "areas": [
+      "other"
+    ],
+    "content": [
+      "Paper",
+      "Plastic",
+      "Other",
+      "HouseholdGarbage"
+    ],
+    "images": [
+      "595c9e8aba503001008ecf14",
+      "595c9e8aba503001008ecf15"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5960bbb5ba503001008ecf17",
+    "last_update": "2017-07-08T11:02:13.098Z",
+    "nr_ord": 37,
+    "user": "5952816dba503001008eced7",
+    "county": "5936e5d45ad96f1500b7989d",
+    "city": null,
+    "size": 1,
+    "description": "I made a visit to ijeodo community in Lagos state",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 9.058702156392114,
+      "lng": 8.756103515625
+    },
+    "created_at": "2017-07-08T11:02:13.083Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "ElectronicWaste",
+      "Textiles",
+      "Plastic"
+    ],
+    "images": [
+      "5960bbb5ba503001008ecf18"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "5964b511ba503001008ecf1a",
+    "last_update": "2017-07-11T11:22:58.912Z",
+    "nr_ord": 38,
+    "user": "59443c5e4e33a101005ee24a",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 3,
+    "description": "Its around the Police station at Mushin and just a month back it was cleaned up by Susty Vibers during the stare down on pollution street conference.",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.4491773,
+      "lng": 3.4070983
+    },
+    "created_at": "2017-07-11T11:22:57.674Z",
+    "areas": [
+      "city"
+    ],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Aluminium",
+      "Glass",
+      "Textiles"
+    ],
+    "images": [
+      "5964b512ba503001008ecf1b"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "59651446ba503001008ecf1d",
+    "last_update": "2017-07-11T18:09:10.949Z",
+    "nr_ord": 39,
+    "user": "5947ca184e33a101005ee27e",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 1,
+    "description": "Very close to a drainage on the road to Estate shopping complex",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.4613075,
+      "lng": 3.312377
+    },
+    "created_at": "2017-07-11T18:09:10.938Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper",
+      "HouseholdGarbage",
+      "Textiles",
+      "Other"
+    ],
+    "images": [
+      "59651446ba503001008ecf1e",
+      "59651446ba503001008ecf1f",
+      "59651446ba503001008ecf20"
+    ],
+    "status": "pending",
+    "__v": 0
+  },
+  {
+    "_id": "596a0b8fba503001008ecf24",
+    "last_update": "2017-07-15T12:33:19.259Z",
+    "nr_ord": 40,
+    "user": "596a09fbba503001008ecf22",
+    "county": "5936e5d45ad96f1500b7989c",
+    "city": null,
+    "size": 1,
+    "description": "Within NRC quarters",
+    "allocated": {
+      "notified": false,
+      "due_date": "2017-06-24T11:52:05.000Z"
+    },
+    "unconfirm": [],
+    "confirm": [],
+    "location": {
+      "lat": 6.49718949634283,
+      "lng": 3.376471996307373
+    },
+    "created_at": "2017-07-15T12:33:19.255Z",
+    "areas": [],
+    "content": [
+      "Plastic",
+      "Paper"
+    ],
+    "images": [
+      "596a0b8fba503001008ecf25"
+    ],
+    "status": "pending",
+    "__v": 0
+  }
+]
