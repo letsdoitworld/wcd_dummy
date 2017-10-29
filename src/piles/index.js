@@ -1,5 +1,3 @@
-
-
 import AF_images from './afghanistan images.json';
 import AF from './afghanistan piles.json';
 import AR_images from './argentina images.json';
@@ -31,66 +29,20 @@ import TZ from './tanzania piles.json';
 import ZW_images from './zimbabwe images.json';
 import ZW from './zimbabwe piles.json';
 
-/*
-const getAddress = async (location) => {
-  let address = null;
-
-  return address;
-};
-
-const mapPiles = (data) => {
-  console.log('data: ', data);
-  const location = {
-    latitude: data.piles[0].location.lat,
-    longitude: data.piles[0].location.lng
-  };
-
-  geocoder.reverse({lat:location.latitude, lon:location.longitude}).then(function(res) {
-      console.log('res', res);
-    })
-    .catch(function(err) {
-      console.log('err', err);
-    });
-  var address = null;
-  let r = null;
-  geocoder.reverseGeocode(location.latitude, location.longitude, function ( err, data ) {
-    console.log('geocoder: ', err, data);
-    address = !err ? data : err;
-  });
-
-
-  console.log('address: ', address);
-
-  const marker = {
-    location: location,
-    status: 'threat',
-    photos,
-    composition: _.map(data.piles.content, (d) => {
-      return d.toLowerCase();
-    }),
-    hashtags: [],
-    amount: 'handful',
-    address: completeAddress,
-    name: `${streetAddress} ${streetNumber}`,
-  };
-  return true;
-};
-*/
-
 export const piles = {
   AF: {country: 'AF', piles: AF, photos: AF_images},
   AR: {country: 'AR', piles: AR, photos: AR_images},
-  /*    BD: {country: 'BD', piles: BD, photos: BD_images},
-      BJ: {country: 'BJ', piles: BJ, photos: BJ_images},
-      EE: {country: 'EE', piles: EE, photos: EE_images},
-      GH: {country: 'GH', piles: GH, photos: GH_images},
-      HT: {country: 'HT', piles: HT, photos: HT_images},
-      IN: {country: 'IN', piles: IN, photos: IN_images},
-      KE: {country: 'KE', piles: KE, photos: KE_images},
-      NP: {country: 'NP', piles: NP, photos: NP_images},
-      NG: {country: 'NG', piles: NG, photos: NG_images},
-      PH: {country: 'PH', piles: PH, photos: PH_images},
-      US: {country: 'US', piles: US, photos: US_images},
-      TZ: {country: 'TZ', piles: TZ, photos: TZ_images},
-      ZW: {country: 'ZW', piles: ZW, photos: ZW_images}*/
+  BD: {country: 'BD', piles: BD, photos: BD_images},
+  BJ: {country: 'BJ', piles: BJ, photos: BJ_images},
+  EE: {country: 'EE', piles: EE, photos: EE_images},
+  GH: {country: 'GH', piles: GH, photos: GH_images},
+  HT: {country: 'HT', piles: HT, photos: HT_images},
+  IN: {country: 'IN', piles: IN, photos: IN_images},
+  KE: {country: 'KE', piles: KE, photos: KE_images},
+  NP: {country: 'NP', piles: NP, photos: NP_images},
+  NG: {country: 'NG', piles: NG, photos: NG_images},
+  PH: {country: 'PH', piles: PH, photos: PH_images},
+  US: {country: 'US', piles: US, photos: US_images},
+  TZ: {country: 'TZ', piles: TZ, photos: TZ_images},
+  ZW: {country: 'ZW', piles: ZW, photos: ZW_images}
 };

@@ -1,7 +1,9 @@
+import _ from 'lodash';
 import {
   PILES_ADD_COUNTRIES,
   PILES_UPDATE_GEODATA,
-  PILES_GEODATA_UPDATED
+  PILES_GEODATA_UPDATED,
+  PILES_REMOVE_PILE
 } from '../constants/constants';
 
 const initialState = {
@@ -24,6 +26,10 @@ const initialState = {
   ZW: []
 };
 
+const removeCounter = (list, index) => {
+  return list
+};
+
 export default function pilesReducer(state = initialState, action) {
   switch (action.type) {
     case PILES_ADD_COUNTRIES:
@@ -37,6 +43,16 @@ export default function pilesReducer(state = initialState, action) {
       ) {
         state[action.payload.country][action.payload.index].name = action.payload.name;
         state[action.payload.country][action.payload.index].address = action.payload.address;
+      }
+      return state;
+    case PILES_REMOVE_PILE:
+      if(
+        state[action.payload.country] &&
+        state[action.payload.country][action.payload.index]
+      ) {
+        state[action.payload.country] = state[action.payload.country].filter((item, i) => {
+          return i !== action.payload.index;
+        });
       }
       return state;
     default:

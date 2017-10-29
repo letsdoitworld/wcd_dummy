@@ -1,6 +1,6 @@
 {
   "name": "wcd_dummy",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "private": true,
   "dependencies": {
     "axios": "^0.17.0",
@@ -23,6 +23,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "static": "npm run build && static ./build --port 8085",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "node-static": "^0.7.10"
   }
 }

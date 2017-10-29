@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import { Navbar, NavbarBrand, Container, Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import { Navbar, NavbarBrand, Jumbotron, Container, Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
 import { FacebookLogin } from 'react-facebook-login-component';
 import geocoder from 'geocoder';
 import _ from  'lodash';
 
-import { Api } from './services';
-import { fetchNetworkTokenAsync } from './services/Login';
 import './App.css';
 import * as configActions from './actions/configActions';
 import * as pilesActions from './actions/pilesActions';
@@ -18,13 +16,15 @@ class App extends Component {
   constructor(props){
     super (props);
     this.setConfig = this.setConfig.bind(this);
+    this.startExport = this.startExport.bind(this);
     this.handleChangeApiUrl = this.handleChangeApiUrl.bind(this);
     this.handleChangeFacebookAppId = this.handleChangeFacebookAppId.bind(this);
     this.responseFacebook = this.responseFacebook.bind(this);
 
     this.state = {
       apiUrl: '',
-      facebookAppId: ''
+      facebookAppId: '',
+      importStarted: false
     };
 
     const trashpoints = this.prepareData();
@@ -56,37 +56,37 @@ class App extends Component {
             latitude: pc.location.lat,
             longitude: pc.location.lng
           };
-          const composition = _.map(pc.content, (d) => {
-            d.toLowerCase();
-          });
-          let name = '';
-          let address = '';
+          let name = 'Untitled';
+          let address = 'Not found';
           if(!_.isEmpty(pc.description)) {
             const nameLength = pc.description.length < 20 ? pc.description.length : 20;
             name = pc.description.substr(0, nameLength);
             name = nameLength < 20 ? name : name + '...';
             address = pc.description;
           }
+          let composition = _.map(pc.content, (d) => {
+            d.toLowerCase();
+          });
+          composition = _.filter(composition, (o) => {
+            return TRASH_COMPOSITION_TYPE_LIST.indexOf(o) !== -1
+          });
+          composition = composition.length > 0 ? composition : ['domestic waste', 'glass'];
           const cl = pilesData.push({
             location: location,
-            status: 'threat',
+            status: 'regular',
             photos: [],
-            composition: _.filter(composition, (o) => {
-              return TRASH_COMPOSITION_TYPE_LIST.indexOf(o) !== -1
-            }),
+            composition: composition,
             hashtags: [],
             amount: 'handful',
             address: address,
             name: name,
           });
           const index = cl - 1;
-          if(index === 0) {
-            geocodeIndex.push({
-              country: data.country,
-              location: location,
-              index: index
-            });
-          }
+          geocodeIndex.push({
+            country: data.country,
+            location: location,
+            index: index
+          });
         }
         toReturn['piles'] = pilesData;
         return toReturn;
@@ -102,21 +102,20 @@ class App extends Component {
     const lastIndex = geocodeIndex.length - 1;
     let currentIndex = geocodeIndex.length > 1 ? 0 : false;
     let interval = setInterval(function(that) {
-      if (currentIndex === false || currentIndex > lastIndex) {
+      const indexForInterval = currentIndex;
+      if (indexForInterval === false || indexForInterval > lastIndex) {
         that.props.pilesActions.geodataUpdated();
         return clearInterval(interval);
       }
-      const indexForInterval = currentIndex;
       geocoder.reverseGeocode(
         geocodeIndex[indexForInterval].location.latitude,
         geocodeIndex[indexForInterval].location.longitude,
         function ( err, data ) {
-          console.log('geocoder: ', err, data, currentIndex, indexForInterval);
           if(_.isEmpty(err) || (!_.isEmpty(data) &&  data.status === 'OK')) {
-            const address = data.results[0].formatted_address ?
+            const address = _.isEmpty(data.results[0].formatted_address) ?
               data.results[0].formatted_address :
               false;
-            const name = data.results[1].formatted_address ?
+            const name = _.isEmpty(data.results[1].formatted_address) ?
               data.results[1].formatted_address :
               address;
             if(name !== false && address !== false) {
@@ -133,7 +132,7 @@ class App extends Component {
         }
       );
       currentIndex++;
-    }, 150, this);
+    }, 30, this);
   }
   handleChangeApiUrl(e) {
     this.setState({apiUrl: e.target.value});
@@ -145,8 +144,16 @@ class App extends Component {
     e.preventDefault();
     this.props.configActions.setInitialConfig(this.state.apiUrl, this.state.facebookAppId);
   }
+  startExport(e) {
+    e.preventDefault();
+    this.setState({
+      importStarted: true
+    });
+    this.props.pilesActions.exportPiles();
+  }
   responseFacebook(response) {
     this.props.configActions.setFacebookData(response);
+    this.props.configActions.apiDatasets();
   }
   renderConfigScreen () {
     return (
@@ -209,16 +216,37 @@ class App extends Component {
             if(!this.props.isSignIn) {
               return (
                 <div className="alert alert-danger fade show">
-                  <strong>Data preparing for import!</strong><br />
+                  <strong>Try to login. Please wait!</strong><br/>
                 </div>
               );
             } else {
-              return (
-                <div className="alert alert-success fade show">
-                  <strong>Hello {this.props.facebookData.name}!</strong><br />
-                  You may start import of dummy data for your account.
-                </div>
-              );
+              if(!this.props.pilesLoaded || !this.props.pilesGeoLoaded) {
+                return (
+                  <div className="alert alert-warning fade show">
+                    <strong>Prepare data to import! Please wait! This may get some time, because we get geodata from google.</strong><br/>
+                  </div>
+                );
+              }
+              else {
+                return (
+                  <div>
+                    <div className="alert alert-success fade show">
+                      <strong>Hello {this.props.facebookData.name}!</strong><br/>
+                      You may start import of dummy data for your account.
+                    </div>
+                    <Jumbotron>
+                      <p>Wait for import: {this.props.pilesCount} trashpoints.</p>
+                      {this.state.importStarted &&
+                        <p>Import started. Please wait. You may see progress in browser console (F12).</p>
+                      }
+                      {this.props.importFinished &&
+                        <p>Import finished.</p>
+                      }
+                    </Jumbotron><br /><br />
+                    <Button onClick={this.startExport} disabled={this.state.importStarted}>Start import</Button>
+                  </div>
+                );
+              }
             }
           })()}
         </div>
@@ -255,17 +283,29 @@ class App extends Component {
 }
 
 function mapStateToProps(state) {
+  const piles = _.pickBy(state.piles, function(value, key) {
+    return Array.isArray(value);
+  });
+  const countPiles = (piles) => {
+    let counter = 0;
+    for(const pi in piles) {
+      counter = counter + piles[pi].length;
+    }
+    return counter
+  };
+
   return {
     apiUrl: state.config.apiUrl,
     facebookAppId: state.config.facebookAppId,
     facebookData: state.config.facebookData,
+    trashpointsDatasetUUID: state.config.trashpointsDatasetUUID,
     apiToken: state.config.apiToken,
     isSignIn: state.config.isSignIn,
-    piles: _.pickBy(state.piles, function(value, key) {
-      return Array.isArray(value);
-    }),
+    piles: piles,
+    pilesCount: countPiles(piles),
     pilesLoaded: state.piles.loaded,
-    pilesGeoLoaded: state.piles.geoLoaded
+    pilesGeoLoaded: state.piles.geoLoaded,
+    importFinished: state.config.importFinished
   };
 }
 
